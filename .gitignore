@@ -1,0 +1,33 @@
+# main
+.DS_Store
+venv
+notes.txt
+.env
+scraps.py
+.DS_Store
+.idea
+
+
+# docker
+docker/movies_database/data/raw_data
+
+# movies api
+movies_database_api/.DS_Store
+movies_database_api/movies_api_venv
+movies_database_api/src/config/movie_api_config.ini
+movies_database_api/__pycache__
+movies_database_api/src/crud/__pycache__
+movies_database_api/src/utilities/__pycache__
+movies_database_api/tests/__pycache__
+movies_database_api/src/models/__pycache__
+movies_database_api/src/__pycache__
+movies_database_api/src/dependencies/__pycache__
+movies_database_api/src/routers/__pycache__
+
+# netflix_mimic_app
+netflix_mimic_app/movies_app_venv
+netflix_mimic_app/.DS_Store
+netflix_mimic_app/__pycache__/__init__.cpython-38.pyc
+netflix_mimic_app/src/__pycache__/__init__.cpython-38.pyc
+netflix_mimic_app/src/__pycache__/movie.cpython-38.pyc
+netflix_mimic_app/src/__pycache__/user.cpython-38.pyc

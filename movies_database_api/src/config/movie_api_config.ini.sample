@@ -1,0 +1,5 @@
+[KEY]
+KEY = 'add key'
+
+[MOVIES_DB_DEV]
+movie_db_conn_str = 'add encrypted connection string'
