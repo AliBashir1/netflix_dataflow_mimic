@@ -13,7 +13,7 @@ docker/movies_database/data/raw_data
 
 # movies api
 movies_database_api/.DS_Store
-movies_database_api/movies_api_venv
+movies_database_api/movies_database_api_venv
 movies_database_api/src/config/movie_api_config.ini
 movies_database_api/__pycache__
 movies_database_api/src/crud/__pycache__

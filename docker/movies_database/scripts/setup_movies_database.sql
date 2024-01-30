@@ -1,7 +1,7 @@
 CREATE ROLE "movies_app_admin" WITH PASSWORD 'moviesapppassword' LOGIN;
 
-CREATE DATABASE   movies_app_db;
-\c movies_app_db
+CREATE DATABASE   movies_database;
+\c movies_database
 
 
 CREATE TYPE gender AS ENUM('m', 'f', 'x');
@@ -281,10 +281,10 @@ $$;
 
 -- keep this at the last
 
-REVOKE CONNECT ON DATABASE movies_app_db FROM PUBLIC;
-GRANT CONNECT ON DATABASE movies_app_db TO movies_app_admin;
+REVOKE CONNECT ON DATABASE movies_database FROM PUBLIC;
+GRANT CONNECT ON DATABASE movies_database TO movies_app_admin;
 -- following command grant privileges on new object no exiting object, use commented command to
 -- gain access for existing objects.
 GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA public TO movies_app_admin;
 GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA public to movies_app_admin;
-GRANT ALL PRIVILEGES ON DATABASE movies_app_db TO movies_app_admin;
+GRANT ALL PRIVILEGES ON DATABASE movies_database TO movies_app_admin;

@@ -1,5 +1,4 @@
-from pydantic import BaseModel, BaseConfig, Field, Alias
-
+from pydantic import BaseModel, BaseConfig, Field, AliasPath
 
 class User(BaseModel):
     id: int

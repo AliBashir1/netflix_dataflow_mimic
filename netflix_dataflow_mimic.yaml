@@ -1,6 +1,6 @@
 version: '3.8'
 services:
-  movies_app_db:
+  movies_database:
     container_name: movies_database
     image: postgres:15
     environment:
@@ -11,30 +11,30 @@ services:
     ports:
       - "5432:5432"
     volumes:
-      - movies_app_volume:/var/lib/postgresql/data
+      - movies_database_vol:/var/lib/postgresql/data
       - /Users/alibashir/Desktop/workspace.nosync/ETL/netflix_dataflow_mimic/docker/movies_database/data/cleaned_data:/resources
       - /Users/alibashir/Desktop/workspace.nosync/ETL/netflix_dataflow_mimic/docker/movies_database/scripts:/docker-entrypoint-initdb.d
 #      - /Users/alibashir/Desktop/workspace.nosync/ETL/netflix_dataflow_mimic/docker/movies_database/config/postgresql.conf:/var/lib/postgresql/data/pgdata/postgresql.conf
-  movies_api:
+  movies_database_api:
     container_name: movies_database_api
     build: docker/movies_database_api
     environment:
       PYTHONPATH: /netflix_mimic_app
     volumes:
       - /Users/alibashir/Desktop/workspace.nosync/ETL/netflix_dataflow_mimic/movies_database_api:/netflix_mimic_app/movies_database_api
-      - movie_shared_vol:/secret
+      - netflix_mimic_shared_vol:/secret
     ports:
       - "8000:8000"
-  movies_app:
+  netflix_mimic_app:
     container_name: netflix_mimic_app
     build: docker/netflix_mimic_app
     environment:
       PYTHONPATH: /netflix_mimic_app
     volumes:
       - /Users/alibashir/Desktop/workspace.nosync/ETL/netflix_dataflow_mimic/netflix_mimic_app:/netflix_mimic_app
-      - movie_shared_vol:/secret
+      - netflix_mimic_shared_vol:/secret
 volumes:
-  movies_app_volume:
+  movies_database_vol:
     driver: local
-  movie_shared_vol:
+  netflix_mimic_shared_vol:
     driver: local
