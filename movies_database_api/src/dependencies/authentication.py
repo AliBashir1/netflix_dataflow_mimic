@@ -11,7 +11,6 @@ async def verify_access_token(api_access_token: str = Security(api_key_header)):
     with open("/secret/key.txt") as key_file:
         global API_KEY
         API_KEY = str(key_file.read().strip())
-        print(API_KEY, "from verifying_access_Account") # note delete this
 
     if api_access_token != API_KEY:
         raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail="Could not validate the access token.")

@@ -24,22 +24,14 @@ class Movie(BaseModel):
 
 class MovieIn(BaseModel):
     id: int
-    date_added: date
-
-    @field_validator("date_added")
-    @classmethod
-    def validate_date(cls, value: date):
-        if value != dt.today().date():
-            raise ValueError("Date cannot be in future or in past. It has to be today's date.")
 
 
 class MovieOut(BaseModel):
+    id: int
     title: str
     genres: str
     language: str
-    popularity: float
-    imdb_vote_count: float
-    imdb_vote_average: float
     release_date: date
     is_available: bool
     date_added: date
+    runtime: int

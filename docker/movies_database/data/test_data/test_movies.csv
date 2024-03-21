@@ -1,0 +1,201 @@
+id,title,genres,language,popularity,imdb_vote_count,imdb_vote_average,revenue,budget,release_date,is_available,runtime,date_added
+2,Ariel,"Drama,Crime",Finnish,3.86049100,44,7.1,0,0,1988-10-21,false,69,1900-01-01
+3,Shadows in Paradise,"Drama,Comedy",Finnish,2.29211000,35,7.1,0,0,1986-10-16,false,76,1900-01-01
+5,Four Rooms,"Crime,Comedy",English,9.02658600,539,6.5,4300000,4000000,1995-12-09,false,98,1900-01-01
+6,Judgment Night,"Action,Thriller,Crime",English,5.53867100,79,6.4,12136938,0,1993-10-15,false,110,1900-01-01
+11,Star Wars,"Adventure,Action,Science Fiction",English,42.14969700,6778,8.1,775398007,11000000,1977-05-25,false,121,1900-01-01
+12,Finding Nemo,"Animation,Family",English,25.49779400,6292,7.6,940335536,94000000,2003-05-30,false,100,1900-01-01
+13,Forrest Gump,"Comedy,Drama,Romance",English,48.30719400,8147,8.2,677945399,55000000,1994-07-06,false,142,1900-01-01
+14,American Beauty,Drama,English,20.72657800,3438,7.9,356296601,15000000,1999-09-15,false,122,1900-01-01
+15,Citizen Kane,"Mystery,Drama",English,15.81192100,1244,8,23217674,839727,1941-04-30,false,119,1900-01-01
+16,Dancer in the Dark,"Drama,Crime,Music",English,10.68480600,392,7.7,40031879,12800000,2000-05-17,false,140,1900-01-01
+17,The Dark,"Horror,Thriller,Mystery",English,5.69150800,76,5.6,0,0,2006-01-26,false,87,1900-01-01
+18,The Fifth Element,"Adventure,Fantasy,Action,Thriller,Science Fiction",English,24.30526000,3962,7.3,263920180,90000000,1997-05-07,false,126,1900-01-01
+19,Metropolis,"Drama,Science Fiction",German,14.48786700,666,8,650422,92620000,1927-01-10,false,153,1900-01-01
+20,My Life Without Me,"Drama,Romance",English,10.31050800,78,7.2,9726954,0,2003-03-07,false,106,1900-01-01
+21,The Endless Summer,Documentary,English,1.37881900,23,7.8,0,0,1966-06-15,false,95,1900-01-01
+22,Pirates of the Caribbean: The Curse of the Black Pearl,"Adventure,Fantasy,Action",English,47.32666500,7191,7.5,655011224,140000000,2003-07-09,false,143,1900-01-01
+24,Kill Bill: Vol. 1,"Action,Crime",English,25.26186500,5091,7.7,180949000,30000000,2003-10-10,false,111,1900-01-01
+25,Jarhead,"Drama,War",English,9.99703200,776,6.6,96889998,72000000,2005-11-04,false,125,1900-01-01
+26,Walk on Water,Drama,Hebrew,1.70999600,20,6.5,0,1400000,2004-02-05,false,103,1900-01-01
+27,9 Songs,"Drama,Music,Romance",English,18.84770700,103,5.1,1574623,1000000,2004-07-16,false,66,1900-01-01
+28,Apocalypse Now,"Drama,War",English,13.59630000,2112,8,89460381,31500000,1979-08-15,false,153,1900-01-01
+30,Magnetic Rose,"Animation,Science Fiction",Japanese,0.98799200,11,7.9,0,0,1995-12-23,false,44,1900-01-01
+33,Unforgiven,Western,English,10.94214900,1133,7.7,159157447,14000000,1992-08-07,false,131,1900-01-01
+35,The Simpsons Movie,"Animation,Comedy,Family",English,14.30291100,2335,6.9,527068851,75000000,2007-07-25,false,87,1900-01-01
+38,Eternal Sunshine of the Spotless Mind,"Science Fiction,Drama,Romance",English,12.90632700,3758,7.9,72258126,20000000,2004-03-19,false,108,1900-01-01
+55,Amores perros,"Drama,Thriller",Spanish,5.95813800,537,7.6,20908467,2000000,2000-06-16,false,154,1900-01-01
+58,Pirates of the Caribbean: Dead Man's Chest,"Adventure,Fantasy,Action",English,29.45531400,5380,7,1065659812,200000000,2006-06-20,false,151,1900-01-01
+59,A History of Violence,"Drama,Thriller,Crime",English,11.11970700,850,6.9,60740827,32000000,2005-09-23,false,96,1900-01-01
+62,2001: A Space Odyssey,"Science Fiction,Mystery,Adventure",English,22.49462200,3075,7.9,68700000,10500000,1968-04-10,false,149,1900-01-01
+63,Twelve Monkeys,"Science Fiction,Thriller,Mystery",English,12.29730500,2470,7.4,168840000,29500000,1995-12-29,false,129,1900-01-01
+64,Talk to Her,"Drama,Romance",Spanish,6.64827800,273,7.5,51001550,9285469,2002-03-14,false,112,1900-01-01
+65,8 Mile,Drama,English,8.37435500,1676,6.8,215000000,41000000,2002-11-08,false,110,1900-01-01
+66,Absolute Power,"Crime,Drama,Thriller",English,7.66124000,226,6.4,50068310,50000000,1997-02-14,false,121,1900-01-01
+67,Paradise Now,"Thriller,Crime,Drama",English,3.71418600,63,6.9,3357075,0,2005-02-14,false,90,1900-01-01
+68,Brazil,"Comedy,Science Fiction",English,9.83728700,877,7.6,0,15000000,1985-02-20,false,132,1900-01-01
+69,Walk the Line,"Drama,Music,Romance",English,11.47644300,732,7.3,186438883,28000000,2005-09-13,false,136,1900-01-01
+70,Million Dollar Baby,Drama,English,14.47137300,2519,7.7,216763646,30000000,2004-12-15,false,132,1900-01-01
+71,Billy Elliot,"Drama,Comedy,Music",English,12.15842400,774,7.4,110000000,5000000,2000-05-18,false,110,1900-01-01
+73,American History X,Drama,English,18.15716600,3120,8.2,23875127,20000000,1998-10-30,false,119,1900-01-01
+74,War of the Worlds,"Adventure,Thriller,Science Fiction",English,19.92937700,2397,6.2,591739379,132000000,2005-06-28,false,116,1900-01-01
+75,Mars Attacks!,"Comedy,Fantasy,Science Fiction",English,15.63424000,1544,6.1,101371017,70000000,1996-12-12,false,106,1900-01-01
+76,Before Sunrise,"Drama,Romance",English,11.30497900,984,7.7,5535405,2500000,1995-01-27,false,105,1900-01-01
+77,Memento,"Mystery,Thriller",English,15.45078900,4168,8.1,39723096,9000000,2000-10-11,false,113,1900-01-01
+78,Blade Runner,"Science Fiction,Drama,Thriller",English,96.27237400,3833,7.9,33139618,28000000,1982-06-25,false,117,1900-01-01
+79,Hero,"Drama,Adventure,Action,History",Chinese,9.86176500,647,7.3,177394432,31000000,2002-12-19,false,99,1900-01-01
+80,Before Sunset,"Drama,Romance",English,7.04895700,734,7.6,15992615,2700000,2004-02-10,false,80,1900-01-01
+81,Nausicaä of the Valley of the Wind,"Adventure,Animation,Fantasy",Japanese,11.26736600,808,7.7,3301446,1000000,1984-03-11,false,117,1900-01-01
+82,Miami Vice,"Action,Adventure,Crime,Thriller",English,11.72545000,494,5.7,163794509,135000000,2006-07-27,false,134,1900-01-01
+83,Open Water,"Drama,Thriller",English,10.65281800,320,5.3,54667954,130000,2004-08-06,false,79,1900-01-01
+85,Raiders of the Lost Ark,"Adventure,Action",English,19.90157600,3949,7.7,389925971,18000000,1981-06-12,false,115,1900-01-01
+86,The Elementary Particles,"Drama,Romance",German,11.55253700,34,6.4,0,6000000,2006-02-10,false,105,1900-01-01
+87,Indiana Jones and the Temple of Doom,"Adventure,Action",English,15.80230600,2841,7.1,333000000,28000000,1984-05-23,false,118,1900-01-01
+88,Dirty Dancing,"Drama,Music,Romance",English,14.04412200,1371,7.1,213954274,6000000,1987-08-21,false,100,1900-01-01
+89,Indiana Jones and the Last Crusade,"Adventure,Action",English,14.78898700,3221,7.6,474171806,48000000,1989-05-24,false,127,1900-01-01
+90,Beverly Hills Cop,"Action,Comedy,Crime",English,8.50348300,985,6.8,316360478,15000000,1984-11-29,false,105,1900-01-01
+91,Land Without Bread,Documentary,Spanish,2.47597200,21,6.5,0,20000,1933-12-01,false,29,1900-01-01
+92,Megacities,Documentary,English,0.40613700,3,7,0,0,1998-08-12,false,94,1900-01-01
+93,Anatomy of a Murder,"Crime,Drama,Mystery,Thriller",English,9.47377200,207,7.7,0,0,1959-07-01,false,160,1900-01-01
+95,Armageddon,"Action,Thriller,Science Fiction,Adventure",English,13.23511200,2540,6.5,553799566,140000000,1998-07-01,false,151,1900-01-01
+96,Beverly Hills Cop II,"Action,Comedy,Crime",English,9.20033600,627,6.1,299965036,20000000,1987-05-18,false,100,1900-01-01
+97,Tron,"Science Fiction,Action,Adventure",English,16.57402100,717,6.6,33000000,17000000,1982-07-09,false,96,1900-01-01
+98,Gladiator,"Action,Drama,Adventure",English,23.18666700,5566,7.9,457640427,103000000,2000-05-01,false,155,1900-01-01
+99,All About My Mother,"Comedy,Drama",Spanish,10.00091500,337,7.4,67872296,8272296,1999-04-19,false,101,1900-01-01
+100,"Lock, Stock and Two Smoking Barrels","Comedy,Crime",English,4.60786000,1671,7.5,3897569,1350000,1998-03-05,false,105,1900-01-01
+101,Leon: The Professional,"Thriller,Crime,Drama",French,20.47732900,4293,8.2,45284974,16000000,1994-09-14,false,110,1900-01-01
+102,Open Hearts,"Drama,Romance",Danish,6.81851300,27,6.8,0,0,2002-09-06,false,113,1900-01-01
+103,Taxi Driver,"Crime,Drama",English,14.09271300,2632,8.1,28262574,1300000,1976-02-07,false,114,1900-01-01
+104,Run Lola Run,"Action,Drama,Thriller",German,7.76537900,672,7.2,7267585,1530000,1998-08-20,false,81,1900-01-01
+105,Back to the Future,"Adventure,Comedy,Science Fiction,Family",English,25.77850900,6239,8,381109762,19000000,1985-07-03,false,116,1900-01-01
+106,Predator,"Science Fiction,Action,Adventure,Thriller",English,18.49569400,2129,7.3,98235548,18000000,1987-06-11,false,107,1900-01-01
+107,Snatch,"Thriller,Crime",English,14.01402500,2953,7.7,83557872,10000000,2000-09-01,false,103,1900-01-01
+108,Three Colors: Blue,"Drama,Music,Mystery",French,8.84351700,311,7.7,0,0,1993-01-10,false,98,1900-01-01
+109,Three Colors: White,"Comedy,Drama,Mystery",French,6.58980000,218,7.3,0,0,1994-01-26,false,91,1900-01-01
+110,Three Colors: Red,"Drama,Mystery,Romance",French,7.83275500,246,7.8,0,0,1994-05-27,false,99,1900-01-01
+111,Scarface,"Action,Crime,Drama,Thriller",English,11.29967300,3017,8,65884703,25000000,1983-12-08,false,170,1900-01-01
+112,Italian for Beginners,"Comedy,Drama,Romance",Danish,5.39650800,33,6.5,0,0,2000-12-07,false,112,1900-01-01
+113,"Spring, Summer, Fall, Winter... and Spring",Drama,Korean,8.15788700,240,7.6,6502364,0,2003-09-19,false,103,1900-01-01
+114,Pretty Woman,"Romance,Comedy",English,13.34845100,1807,7,463000000,14000000,1990-03-23,false,119,1900-01-01
+115,The Big Lebowski,"Comedy,Crime",English,15.95252400,3001,7.8,46189568,15000000,1998-03-06,false,117,1900-01-01
+116,Match Point,"Drama,Thriller,Crime,Romance",English,9.02037200,1134,7.2,85306374,15000000,2005-10-26,false,124,1900-01-01
+117,The Untouchables,"Crime,Drama,History,Thriller",English,11.06220300,1424,7.6,76270454,25000000,1987-06-02,false,119,1900-01-01
+118,Charlie and the Chocolate Factory,"Adventure,Comedy,Family,Fantasy",English,22.03840500,3759,6.7,474968763,150000000,2005-07-13,false,115,1900-01-01
+120,The Lord of the Rings: The Fellowship of the Ring,"Adventure,Fantasy,Action",English,32.07072500,8892,8,871368364,93000000,2001-12-18,false,178,1900-01-01
+121,The Lord of the Rings: The Two Towers,"Adventure,Fantasy,Action",English,29.42353700,7641,8,926287400,79000000,2002-12-18,false,179,1900-01-01
+122,The Lord of the Rings: The Return of the King,"Adventure,Fantasy,Action",English,29.32435800,8226,8.1,1118888979,94000000,2003-12-01,false,201,1900-01-01
+123,The Lord of the Rings,"Fantasy,Drama,Animation,Adventure",English,7.91479500,187,6.1,30471420,4000000,1978-11-15,false,132,1900-01-01
+124,No End,"Drama,Fantasy",Polish,3.25667600,5,7,0,0,1985-06-17,false,109,1900-01-01
+127,Blind Chance,Drama,Polish,3.20822100,29,7.7,0,0,1987-01-10,false,123,1900-01-01
+128,Princess Mononoke,"Adventure,Fantasy,Animation",Japanese,17.16672500,2041,8.2,159375308,26500000,1997-07-12,false,134,1900-01-01
+129,Spirited Away,"Fantasy,Adventure,Animation,Family",Japanese,41.04886700,3968,8.3,274925095,15000000,2001-07-20,false,125,1900-01-01
+132,The Rolling Stones: Gimme Shelter,"Documentary,Music",English,2.33602200,42,7.8,0,0,1970-12-06,false,91,1900-01-01
+133,Primary,Documentary,English,0.38063500,6,7,0,0,1960-01-01,false,60,1900-01-01
+134,"O Brother, Where Art Thou?","Action,Adventure,Comedy",English,12.43417500,1144,7.3,71868327,26000000,2000-08-30,false,106,1900-01-01
+135,Dont Look Back,"Documentary,Music",English,2.67617400,35,7.5,0,0,1967-05-17,false,96,1900-01-01
+136,Freaks,"Drama,Horror",English,9.07434800,228,7.7,0,0,1932-02-20,false,64,1900-01-01
+137,Groundhog Day,"Romance,Fantasy,Drama,Comedy",English,12.98962700,2358,7.4,70906973,14600000,1993-02-11,false,101,1900-01-01
+138,Dracula,Horror,English,7.50312600,254,7.2,1012189,355000,1931-02-12,false,72,1900-01-01
+139,Mifune,"Romance,Comedy,Drama",Danish,2.53934600,16,6.8,0,0,1999-03-12,false,98,1900-01-01
+140,Bad Education,"Crime,Drama,Romance,Thriller",Spanish,7.66414000,223,7.1,40266982,5000000,2004-03-19,false,106,1900-01-01
+141,Donnie Darko,"Fantasy,Drama,Mystery",English,18.30314800,3574,7.7,1270522,6000000,2001-01-18,false,113,1900-01-01
+142,Brokeback Mountain,"Drama,Romance",English,11.78704400,1531,7.5,178043761,14000000,2005-09-02,false,134,1900-01-01
+143,All Quiet on the Western Front,"Drama,War",English,15.23505600,166,7.5,0,1250000,1930-04-29,false,133,1900-01-01
+144,Wings of Desire,"Drama,Fantasy,Romance",German,6.35732100,256,7.5,3200000,2500000,1987-01-01,false,128,1900-01-01
+145,Breaking the Waves,"Drama,Romance",Danish,8.55868800,213,7.2,3803298,0,1996-05-13,false,159,1900-01-01
+146,"Crouching Tiger, Hidden Dragon","Adventure,Drama,Action,Romance",Chinese,19.94495300,949,7.2,213525736,17000000,2000-10-01,false,120,1900-01-01
+147,The 400 Blows,Drama,French,7.26868800,363,8,0,0,1959-05-04,false,99,1900-01-01
+148,The Secret Life of Words,"Drama,Romance",English,12.77558300,52,6.8,0,5000000,2005-12-15,false,112,1900-01-01
+149,Akira,"Science Fiction,Animation",Japanese,10.88891700,792,7.8,553171,8000000,1988-07-16,false,124,1900-01-01
+150,48 Hrs.,"Thriller,Action,Comedy,Crime,Drama",English,15.29712100,364,6.5,78868508,12000000,1982-12-07,false,96,1900-01-01
+152,Star Trek: The Motion Picture,"Science Fiction,Adventure,Mystery",English,8.27776500,541,6.2,139000000,35000000,1979-12-06,false,132,1900-01-01
+153,Lost in Translation,Drama,English,11.60944100,1943,7.3,119723856,4000000,2003-08-31,false,102,1900-01-01
+154,Star Trek II: The Wrath of Khan,"Action,Adventure,Science Fiction,Thriller",English,7.16023600,688,7.3,96800000,12000000,1982-06-03,false,113,1900-01-01
+155,The Dark Knight,"Drama,Action,Crime,Thriller",English,123.16725900,12269,8.3,1004558444,185000000,2008-07-16,false,152,1900-01-01
+156,Wilbur Wants to Kill Himself,"Comedy,Drama,Romance",Danish,2.65141200,25,6.8,0,0,2002-11-08,false,111,1900-01-01
+157,Star Trek III: The Search for Spock,"Science Fiction,Action,Adventure,Thriller",English,6.19729800,443,6.4,87000000,18000000,1984-05-31,false,105,1900-01-01
+158,Knockin' on Heaven's Door,"Comedy,Crime",German,7.20330700,135,7.6,0,0,1997-02-20,false,87,1900-01-01
+159,Maybe... Maybe Not,"Comedy,Drama",German,8.59331900,34,6.1,0,0,1994-10-05,false,90,1900-01-01
+160,The Arrival of a Train at La Ciotat,Documentary,Spanish,5.25660800,87,6.9,0,0,1896-01-25,false,1,1900-01-01
+161,Ocean's Eleven,"Thriller,Crime",English,12.11493200,3857,7.2,450717150,85000000,2001-12-07,false,116,1900-01-01
+162,Edward Scissorhands,"Fantasy,Drama,Romance",English,17.61224400,3731,7.5,53000000,20000000,1990-12-05,false,105,1900-01-01
+163,Ocean's Twelve,"Thriller,Crime",English,11.86934700,2169,6.4,362744280,110000000,2004-12-09,false,125,1900-01-01
+164,Breakfast at Tiffany's,"Comedy,Drama,Romance",English,10.87928900,1082,7.6,9500000,2500000,1961-10-05,false,110,1900-01-01
+165,Back to the Future Part II,"Adventure,Comedy,Family,Science Fiction",English,13.68985500,3926,7.4,332000000,40000000,1989-11-20,false,108,1900-01-01
+166,The Party,"Drama,Romance,Comedy",French,12.10574800,225,6.4,0,0,1980-01-01,false,110,1900-01-01
+167,K-PAX,"Drama,Science Fiction",English,12.40015200,710,7.1,50315140,48000000,2001-10-22,false,120,1900-01-01
+168,Star Trek IV: The Voyage Home,"Science Fiction,Adventure",English,12.59695600,490,6.9,133000000,24000000,1986-11-25,false,119,1900-01-01
+169,Predator 2,"Science Fiction,Action,Thriller",English,11.73624100,743,6,57120318,35000000,1990-11-20,false,108,1900-01-01
+170,28 Days Later,"Horror,Thriller,Science Fiction",English,17.65695100,1816,7.1,82719885,5000000,2002-10-31,false,113,1900-01-01
+171,The Party 2,Comedy,French,4.96483300,134,6.3,0,0,1982-12-08,false,109,1900-01-01
+172,Star Trek V: The Final Frontier,"Science Fiction,Action,Adventure,Thriller",English,12.30800700,384,5.6,70200000,30000000,1989-06-09,false,107,1900-01-01
+173,"20,000 Leagues Under the Sea","Adventure,Drama,Science Fiction",English,8.72240600,160,6.9,28200000,5000000,1954-12-23,false,127,1900-01-01
+174,Star Trek VI: The Undiscovered Country,"Science Fiction,Action,Adventure,Thriller",English,5.90057000,421,6.7,96900000,27000000,1991-12-05,false,113,1900-01-01
+175,The Big Blue,"Adventure,Drama,Romance",French,13.50381500,364,7.6,0,0,1988-05-11,false,168,1900-01-01
+176,Saw,"Horror,Mystery,Crime",English,23.50843300,2255,7.2,103911669,1200000,2004-10-01,false,103,1900-01-01
+177,The Fisher King,"Comedy,Drama",English,11.18438500,346,7.2,41895491,24000000,1991-09-09,false,137,1900-01-01
+178,Blown Away,"Drama,Action,Thriller",English,13.15507100,126,6,30156002,0,1994-07-01,false,121,1900-01-01
+179,The Interpreter,"Crime,Thriller",English,12.04767100,400,6.2,162944923,80000000,2005-04-08,false,128,1900-01-01
+180,Minority Report,"Action,Thriller,Science Fiction,Mystery",English,20.66606300,2663,7.1,358372926,102000000,2002-06-20,false,145,1900-01-01
+182,The Good German,"War,Crime,Drama,Mystery,Romance,Thriller",English,5.29083100,87,5.9,5914908,32000000,2006-12-08,false,108,1900-01-01
+183,The Wizard,"Adventure,Comedy,Drama,Family,Romance",English,5.76395400,83,6.1,14278900,6000000,1989-12-15,false,100,1900-01-01
+184,Jackie Brown,"Comedy,Crime,Romance",English,16.41549800,1580,7.3,39673162,12000000,1997-12-24,false,154,1900-01-01
+185,A Clockwork Orange,"Science Fiction,Drama",English,17.11259400,3432,8,26589000,2200000,1971-12-18,false,136,1900-01-01
+186,Lucky Number Slevin,"Drama,Thriller,Crime,Mystery",English,11.15092000,1356,7.4,56308881,27000000,2006-02-24,false,110,1900-01-01
+187,Sin City,"Action,Thriller,Crime",English,15.01052500,2755,7.2,158733820,40000000,2005-04-01,false,124,1900-01-01
+189,Sin City: A Dame to Kill For,"Crime,Thriller",English,20.62364200,1314,6.3,39407616,65000000,2014-08-20,false,102,1900-01-01
+192,The Name of the Rose,"Drama,Thriller,Mystery",English,11.46975100,739,7.2,77200000,20000000,1986-09-24,false,130,1900-01-01
+193,Star Trek: Generations,"Science Fiction,Action,Adventure,Thriller",English,8.10570800,461,6.4,120000000,38000000,1994-11-17,false,118,1900-01-01
+194,Amélie,"Comedy,Romance",French,12.87938100,3403,7.8,173921954,10000000,2001-04-25,false,122,1900-01-01
+195,Trouble in Paradise,"Comedy,Romance",English,3.35144200,48,7.3,0,0,1932-10-21,false,83,1900-01-01
+196,Back to the Future Part III,"Adventure,Comedy,Family,Science Fiction",English,13.04399900,2978,7.1,244527583,40000000,1990-05-25,false,118,1900-01-01
+197,Braveheart,"Action,Drama,History,War",English,20.75514900,3404,7.7,210000000,72000000,1995-05-24,false,177,1900-01-01
+198,To Be or Not to Be,"Comedy,War",English,7.27494800,119,7.7,0,0,1942-03-05,false,99,1900-01-01
+199,Star Trek: First Contact,"Science Fiction,Action,Adventure,Thriller",English,8.80849700,671,7,150000000,46000000,1996-11-21,false,111,1900-01-01
+200,Star Trek: Insurrection,"Science Fiction,Action,Adventure,Thriller",English,9.53887700,402,6.3,118000000,70000000,1998-12-10,false,103,1900-01-01
+201,Star Trek: Nemesis,"Science Fiction,Action,Adventure,Thriller",English,11.36780100,488,6.1,67312826,60000000,2002-12-13,false,117,1900-01-01
+203,Mean Streets,"Drama,Crime",English,8.21239900,359,7.2,3000000,500000,1973-10-02,false,110,1900-01-01
+204,The Wages of Fear,"Drama,Thriller,Adventure",French,7.64379300,176,7.9,0,0,1953-04-22,false,147,1900-01-01
+205,Hotel Rwanda,"Drama,History,War",English,10.26233200,805,7.5,38000000,17500000,2004-09-11,false,121,1900-01-01
+206,Paradise Found,Drama,English,1.62317200,6,6.8,0,0,2003-01-01,false,89,1900-01-01
+207,Dead Poets Society,Drama,English,19.90571600,2786,8.1,235860116,16400000,1989-06-02,false,129,1900-01-01
+211,Berlin is in Germany,"Comedy,Drama",German,0.22274700,3,6.3,0,0,2001-11-01,false,90,1900-01-01
+212,Arsenic and Old Lace,"Comedy,Crime",English,13.99011000,234,7.4,0,1120175,1944-09-23,false,118,1900-01-01
+213,North by Northwest,"Mystery,Thriller",English,12.41042700,1062,7.8,13275000,4000000,1959-07-07,false,136,1900-01-01
+214,Saw III,"Horror,Thriller,Crime",English,14.93803500,1104,6.1,163876815,10000000,2006-10-27,false,108,1900-01-01
+215,Saw II,Horror,English,15.39986300,1288,6.3,152925093,4000000,2005-10-28,false,92,1900-01-01
+216,Ali: Fear Eats the Soul,"Romance,Drama",German,5.85530800,74,7.5,0,130000,1974-03-05,false,93,1900-01-01
+217,Indiana Jones and the Kingdom of the Crystal Skull,"Adventure,Action",English,12.57726600,2558,5.7,786636033,185000000,2008-05-21,false,122,1900-01-01
+218,The Terminator,"Action,Thriller,Science Fiction",English,19.29356200,4208,7.4,78371200,6400000,1984-10-26,false,108,1900-01-01
+219,Volver,"Comedy,Drama,Romance",Spanish,6.30292600,419,7.3,85582407,12899867,2006-03-16,false,121,1900-01-01
+220,East of Eden,Drama,English,6.42883000,163,7.5,5,1,1955-03-09,false,115,1900-01-01
+221,Rebel Without a Cause,Drama,English,10.96816900,351,7.6,0,1500000,1955-10-27,false,111,1900-01-01
+222,Berlin: Symphony of a Great City,"Documentary,History",German,0.69274500,11,8,0,0,1927-09-23,false,69,1900-01-01
+223,Rebecca,"Drama,Mystery",English,8.59081300,346,7.7,6000000,1288000,1940-04-12,false,130,1900-01-01
+224,Man of Marble,"Drama,History",Polish,2.78344000,16,5.8,0,0,1977-02-25,false,165,1900-01-01
+225,Man of Iron,"Drama,History",Polish,0.88624900,15,6.1,0,0,1981-07-27,false,147,1900-01-01
+226,Boys Don't Cry,"Crime,Drama",English,6.53600600,360,7.2,11540607,2000000,1999-09-02,false,118,1900-01-01
+227,The Outsiders,"Crime,Drama",English,6.43592600,293,6.9,33697647,10000000,1983-03-25,false,91,1900-01-01
+228,The Blue Angel,Drama,German,2.40612000,52,7.4,0,0,1930-03-31,false,108,1900-01-01
+229,Bride of Frankenstein,"Horror,Science Fiction",English,7.00041700,208,7.4,0,393750,1935-04-21,false,75,1900-01-01
+231,Syriana,"Drama,Thriller",English,5.76857500,455,6.3,94000000,50000000,2005-11-23,false,128,1900-01-01
+232,Rumble Fish,"Action,Adventure,Crime,Drama,Romance",English,8.20519000,141,6.8,2494480,10000000,1983-10-20,false,94,1900-01-01
+233,The Wanderers,Drama,English,3.38637400,55,7.2,23000000,0,1979-07-13,false,117,1900-01-01
+234,The Cabinet of Dr. Caligari,"Drama,Horror,Thriller,Crime",German,7.19127100,279,7.7,0,18000,1920-02-25,false,78,1900-01-01
+235,Stand by Me,"Crime,Drama",English,15.20695700,1568,7.8,52287414,8000000,1986-08-22,false,89,1900-01-01
+236,Muriel's Wedding,"Drama,Comedy,Romance",English,5.25484700,104,6.9,15119639,3000000,1994-09-29,false,106,1900-01-01
+237,Young Adam,"Drama,Thriller,Crime,Romance",English,5.23541900,46,5.9,2500000,6400000,2003-09-26,false,93,1900-01-01
+238,The Godfather,"Drama,Crime",English,41.10926400,6024,8.5,245066411,6000000,1972-03-14,false,175,1900-01-01
+239,Some Like It Hot,"Comedy,Romance",English,11.84510700,835,8,25000000,2883848,1959-03-18,false,122,1900-01-01
+240,The Godfather: Part II,"Drama,Crime",English,36.62930700,3418,8.3,47542841,13000000,1974-12-20,false,200,1900-01-01
+241,Natural Born Killers,"Crime,Thriller,Drama",English,11.22685600,927,6.9,50282766,34000000,1994-08-25,false,119,1900-01-01
+242,The Godfather: Part III,"Crime,Drama,Thriller",English,17.18534900,1589,7.1,136766062,54000000,1990-12-24,false,162,1900-01-01
+243,High Fidelity,"Comedy,Drama,Romance,Music",English,8.52495600,636,7,47126295,30000000,2000-03-17,false,113,1900-01-01
+244,King Kong,"Action,Adventure,Drama,Horror",English,8.73274000,346,7.7,10000000,672000,1933-04-07,false,100,1900-01-01
+245,About a Boy,"Drama,Comedy,Romance",English,10.95666500,627,6.6,129000000,27000000,2002-04-26,false,101,1900-01-01
+246,Zatoichi,"Adventure,Drama,Action",Japanese,6.42826300,236,7.3,0,0,2003-09-06,false,111,1900-01-01
+247,The Killing,"Drama,Action,Thriller,Crime",English,10.22326400,290,7.7,0,320000,1956-05-08,false,85,1900-01-01
+248,Pocketful of Miracles,"Comedy,Drama",English,2.64960500,25,7.3,5000000,2900000,1961-12-18,false,136,1900-01-01
+249,The War of the Roses,"Comedy,Drama,Thriller",English,5.96378200,288,6.7,0,0,1989-12-08,false,116,1900-01-01
+250,In China They Eat Dogs,"Action,Comedy,Crime",Danish,5.06264000,81,7.5,0,0,1999-09-10,false,91,1900-01-01
+251,Ghost,"Fantasy,Drama,Thriller,Mystery,Romance",English,11.94539700,1381,6.9,505000000,22000000,1990-07-12,false,127,1900-01-01

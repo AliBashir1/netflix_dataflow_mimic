@@ -1,7 +1,7 @@
 CREATE ROLE "movies_app_admin" WITH PASSWORD 'moviesapppassword' LOGIN;
 
 CREATE DATABASE   movies_database;
-\c movies_database
+\c movies_database;
 
 
 CREATE TYPE gender AS ENUM('m', 'f', 'x');
@@ -119,7 +119,7 @@ CREATE TABLE IF NOT EXISTS directors(
 
 -- junctions tables
 
-CREATE TABLE IF NOT EXISTS prod_countries_movies_junc(
+CREATE TABLE IF NOT EXISTS movies_prod_countries_junc(
     movie_id    INT NOT NULL,
     iso_id      VARCHAR(5) NOT NULL,
 
@@ -134,7 +134,7 @@ CREATE TABLE IF NOT EXISTS prod_countries_movies_junc(
 
 
 
-CREATE TABLE IF NOT EXISTS prod_companies_movies_junc(
+CREATE TABLE IF NOT EXISTS movies_prod_companies_junc(
     movie_id INT NOT NULL,
     company_id INT NOT NULL,
 
@@ -175,16 +175,16 @@ CREATE TABLE IF NOT EXISTS movies_directors_junc(
 );
 
 
-COPY users FROM '/resources/users.csv' DELIMITER ',' CSV HEADER;
-COPY movies FROM '/resources/movies.csv' DELIMITER ',' CSV HEADER;
-COPY actors FROM '/resources/actors.csv' DELIMITER ',' CSV HEADER;
-COPY directors FROM '/resources/directors.csv' DELIMITER  ',' CSV HEADER;
-COPY production_countries FROM '/resources/countries.csv' DELIMITER  ',' CSV HEADER;
-COPY production_companies FROM '/resources/companies.csv' delimiter ',' CSV HEADER;
-COPY prod_companies_movies_junc FROM '/resources/company_movie_junc.csv' DELIMITER ',' CSV HEADER;
-COPY movies_actors_junc FROM '/resources/actors_movies_junc.csv' DELIMITER ',' CSV HEADER;
-COPY prod_countries_movies_junc FROM '/resources/country_movie_junc.csv' DELIMITER ',' CSV HEADER;
-COPY movies_directors_junc FROM '/resources/directors_movies_junc.csv' DELIMITER ',' CSV HEADER;
+COPY users FROM '/resources/data/movies_data/users.csv' DELIMITER ',' CSV HEADER;
+COPY movies FROM '/resources/data/movies_data/movies.csv' DELIMITER ',' CSV HEADER;
+COPY actors FROM '/resources/data/movies_data/actors.csv' DELIMITER ',' CSV HEADER;
+COPY directors FROM '/resources/data/movies_data/directors.csv' DELIMITER  ',' CSV HEADER;
+COPY production_countries FROM '/resources/data/movies_data/countries.csv' DELIMITER  ',' CSV HEADER;
+COPY production_companies FROM '/resources/data/movies_data/companies.csv' delimiter ',' CSV HEADER;
+COPY movies_prod_companies_junc FROM '/resources/data/movies_data/movies_prod_companies_junc.csv' DELIMITER ',' CSV HEADER;
+COPY movies_actors_junc FROM '/resources/data/movies_data/actors_movies_junc.csv' DELIMITER ',' CSV HEADER;
+COPY movies_prod_countries_junc FROM '/resources/data/movies_data/movies_prod_countries_junc.csv' DELIMITER ',' CSV HEADER;
+COPY movies_directors_junc FROM '/resources/data/movies_data/movies_directors_junc.csv' DELIMITER ',' CSV HEADER;
 
 
 
@@ -278,7 +278,28 @@ AS $$
 $$;
 
 
+CREATE OR REPLACE PROCEDURE  add_n_random_movies(
+    in n int,
+    in lang varchar(50),
+    inout query_result bool = false
+)
+LANGUAGE plpgsql
+AS $$
+    DECLARE
+            today_date DATE := now() at time zone 'America/New_York';
+    Begin
+            with target_movie as (
+                select id from movies
+                          where language = lang
+                order by random()
+                limit n
+            )
+        update movies set date_added = to_char(today_date, 'YYYY-mm-DD')
+        where id in (select id from target_movie);
+    end
 
+
+    $$;
 -- keep this at the last
 
 REVOKE CONNECT ON DATABASE movies_database FROM PUBLIC;

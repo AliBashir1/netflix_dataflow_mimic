@@ -9,7 +9,7 @@ class GenderEnum(str, Enum):
 
 class AccountStatus(str, Enum):
     active: str = "active"
-    pause: str = "paused"
+    paused: str = "paused"
     cancelled: str = "cancelled"
 
 
@@ -28,3 +28,16 @@ class DeviceType(str, Enum):
     tv: str = "tv"
     tablet: str = "tablet"
     computer: str = "computer"
+
+
+from enum import Enum
+
+
+class UserIDRange(int, Enum):
+    min: int = 1001
+    max: str = 301024
+
+
+class QueryLimit(int, Enum):
+    min: int = 1
+    max: int = 10

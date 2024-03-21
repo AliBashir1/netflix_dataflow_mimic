@@ -23,6 +23,7 @@ movies_database_api/src/models/__pycache__
 movies_database_api/src/__pycache__
 movies_database_api/src/dependencies/__pycache__
 movies_database_api/src/routers/__pycache__
+movies_database_api/tests/
 
 # netflix_mimic_app
 netflix_mimic_app/movies_app_venv
@@ -31,3 +32,8 @@ netflix_mimic_app/__pycache__/__init__.cpython-38.pyc
 netflix_mimic_app/src/__pycache__/__init__.cpython-38.pyc
 netflix_mimic_app/src/__pycache__/movie.cpython-38.pyc
 netflix_mimic_app/src/__pycache__/user.cpython-38.pyc
+netflix_mimic_app/__pycache__/
+netflix_mimic_app/src/__pycache__/
+netflix_mimic_app/src/utilities/
+netflix_mimic_app/tests/
+

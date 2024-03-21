@@ -12,9 +12,9 @@ services:
       - "5432:5432"
     volumes:
       - movies_database_vol:/var/lib/postgresql/data
-      - /Users/alibashir/Desktop/workspace.nosync/ETL/netflix_dataflow_mimic/docker/movies_database/data/cleaned_data:/resources
+      - /Users/alibashir/Desktop/workspace.nosync/ETL/netflix_dataflow_mimic/docker/movies_database/data/cleaned_data:/resources/data/movies_data
+      - /Users/alibashir/Desktop/workspace.nosync/ETL/netflix_dataflow_mimic/docker/movies_database/data/test_data:/resources/data/movies_test_data
       - /Users/alibashir/Desktop/workspace.nosync/ETL/netflix_dataflow_mimic/docker/movies_database/scripts:/docker-entrypoint-initdb.d
-#      - /Users/alibashir/Desktop/workspace.nosync/ETL/netflix_dataflow_mimic/docker/movies_database/config/postgresql.conf:/var/lib/postgresql/data/pgdata/postgresql.conf
   movies_database_api:
     container_name: movies_database_api
     build: docker/movies_database_api

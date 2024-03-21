@@ -1,6 +1,7 @@
 from fastapi import FastAPI, Depends
 from movies_database_api.src.routers.user_router import user_router
 from movies_database_api.src.routers.account_router import account_router
+from movies_database_api.src.routers.movie_router import movie_router
 from movies_database_api.src.dependencies.authentication import verify_access_token
 
 
@@ -8,6 +9,7 @@ app = FastAPI(dependencies=[Depends(verify_access_token)])
 
 app.include_router(account_router)
 app.include_router(user_router)
+app.include_router(movie_router)
 
 
 @app.get("/")

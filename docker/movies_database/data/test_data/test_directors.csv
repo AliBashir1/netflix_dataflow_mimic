@@ -1,0 +1,327 @@
+id,name,gender
+1,George Lucas,m
+7,Andrew Stanton,m
+8,Lee Unkrich,m
+24,Robert Zemeckis,m
+39,Sam Mendes,m
+40,Orson Welles,m
+42,Lars von Trier,m
+43,John Fawcett,m
+59,Luc Besson,m
+68,Fritz Lang,m
+86,Bruce Brown,m
+90,Isabel Coixet,f
+108,Peter Jackson,m
+138,Quentin Tarantino,m
+160,Eytan Fox,m
+172,Michael Winterbottom,m
+183,Kouji Morimoto,m
+185,Katsuhiro Ōtomo,m
+190,Clint Eastwood,m
+197,David Silverman,m
+201,Michel Gondry,m
+223,Alejandro González Iñárritu,m
+224,David Cronenberg,m
+240,Stanley Kubrick,m
+280,Terry Gilliam,m
+309,Pedro Almodóvar,m
+323,Curtis Hanson,m
+347,Tom Rooker,m
+357,Hany Abu-Assad,m
+366,James Mangold,m
+468,Stephen Daldry,m
+488,Steven Spielberg,m
+510,Tim Burton,m
+511,Larry J. Franco,m
+518,Danny DeVito,m
+525,Christopher Nolan,m
+564,Richard Linklater,m
+578,Ridley Scott,m
+607,Zhang Yimou,m
+608,Hayao Miyazaki,m
+638,Michael Mann,m
+640,Chris Kentis,m
+648,Philip Kaufman,m
+672,Oskar Roehler,m
+716,Emile Ardolino,m
+769,Martin Brest,m
+793,Luis Buñuel,m
+801,Michael Glawogger,m
+813,Pierre Unik,x
+814,Tony Kaye,m
+817,Rafael Sánchez Ventura,x
+834,Otto Preminger,m
+865,Michael Bay,m
+893,Tony Scott,m
+956,Guy Ritchie,m
+1011,Susanne Bier,f
+1032,Martin Scorsese,m
+1071,Tom Tykwer,m
+1090,John McTiernan,m
+1126,Krzysztof Kieślowski,m
+1150,Brian De Palma,m
+1152,Oliver Stone,m
+1176,Lone Scherfig,f
+1188,Kim Ki-duk,m
+1201,Garry Marshall,m
+1223,Joel Coen,x
+1243,Woody Allen,m
+1418,Albert Maysles,m
+1420,Robert Drew,m
+1477,Charlotte Zwerin,f
+1496,Tod Browning,m
+1524,Harold Ramis,m
+1558,Søren Kragh-Jacobsen,m
+1577,Richard Kelly,m
+1614,Ang Lee,m
+1634,Anders Refn,x
+1650,François Truffaut,x
+1704,Gore Verbinski,m
+1723,Walter Hill,m
+1744,Robert Wise,m
+1748,William Shatner,m
+1749,Leonard Nimoy,m
+1769,Sofia Coppola,f
+1776,Francis Ford Coppola,m
+1788,Nicholas Meyer,m
+1843,Thomas Jahn,m
+1867,Auguste Lumière,x
+1868,Louis Lumière,x
+1869,Sönke Wortmann,x
+1884,Steven Soderbergh,m
+1927,Blake Edwards,m
+1961,Claude Pinoteau,m
+1978,Iain Softley,m
+2000,Lewis Milestone,x
+2034,Danny Boyle,m
+2042,Stephen Hopkins,m
+2087,Richard Fleischer,x
+2127,James Wan,m
+2226,Sydney Pollack,m
+2291,Paul McGuigan,x
+2293,Frank Miller,m
+2294,Robert Rodriguez,m
+2303,Wim Wenders,m
+2352,Jean-Jacques Annaud,m
+2380,David Carson,m
+2388,Jonathan Frakes,m
+2419,Jean-Pierre Jeunet,m
+2428,Ernst Lubitsch,m
+2447,Peter Kohn,x
+2461,Mel Gibson,m
+2523,Stuart Baird,m
+2559,Henri-Georges Clouzot,m
+2589,Terry George,m
+2631,Mario Andreacchio,m
+2636,Alfred Hitchcock,m
+2662,Frank Capra,x
+2675,Darren Lynn Bousman,m
+2690,Peter Weir,m
+2710,James Cameron,m
+2725,Rainer Werner Fassbinder,m
+2746,Elia Kazan,m
+2765,Nicholas Ray,x
+2798,Walter Ruttmann,m
+2801,Andrzej Wajda,m
+2836,Kimberly Peirce,x
+2891,Josef von Sternberg,m
+2917,James Whale,m
+2945,Stephen Gaghan,m
+2991,Robert Wiene,m
+3026,Rob Reiner,m
+3045,P.J. Hogan,m
+3055,David Mackenzie,m
+3110,Allison Anders,f
+3111,Alexandre Rockwell,m
+3146,Billy Wilder,x
+3224,Stephen Frears,x
+3238,Merian C. Cooper,m
+3239,Ernest B. Schoedsack,m
+3288,Chris Weitz,x
+3289,Paul Weitz,m
+3317,Takeshi Kitano,m
+3395,Lasse Spang Olsen,x
+3415,Jerry Zucker,m
+3973,Mark Egerton,m
+4701,James W. Skotchdopole,m
+4746,Robert Lorenz,m
+5163,David McGiffert,m
+7713,Beau Marks,x
+8244,Howard Joslin,x
+8275,Katterli Frauenfelder,x
+8346,Jerry Ziesmer,m
+8392,Pascal Chaumeil,m
+9083,Rochus Gliese,x
+9264,Sergio Mimica-Gezzan,m
+9802,Ray Taylor Jr.,x
+10230,Hannes Stöhr,m
+10546,Fred T. Gallo,m
+10956,Josh McLaglen,m
+12859,Steven Lisberger,m
+13930,Bruce Moriarty,m
+14511,Fred Fleck,m
+16384,Ralph Bakshi,m
+16767,Aki Kaurismäki,x
+18274,Michael Haley,x
+18379,Hal W. Polaire,x
+18855,Ralph S. Singleton,m
+21113,D.A. Pennebaker,m
+25255,Yuyi Beringola,x
+35582,Nicholas Mastandrea,m
+40749,Jean Bourne,x
+51026,Daniel J. Heffner,x
+52991,Sam Hoffman,m
+61523,Artist W. Robinson,x
+70250,Newt Arnold,m
+71901,Douglas Aarniokoski,m
+72974,Glen Trotiner,x
+74823,Sioux Richards,x
+75708,John R. Saunders,x
+83071,David H. Venghaus Jr.,m
+84220,Bill Bannerman,m
+85426,Don Alvarado,m
+91234,Eric Stacey,x
+114512,Lloyd Nelson,x
+119665,Gregory Jacobs,m
+131081,Kazuyoshi Katayama,x
+132252,David Silver,x
+139002,David Maysles,m
+143894,Eric Heffron,x
+144848,Franck Lebreton,x
+189613,David Reid,x
+233653,Atsushi Takahashi,x
+419180,Milton Carter,m
+544653,Lionel Steketee,x
+587903,Olivier Horlait,x
+587969,Thomas Johnston,m
+589402,Adrian Grunberg,x
+718968,Stephen F. Kesten,m
+940683,Sam Nelson,m
+957353,Jeffrey Wetzel,m
+958273,Dianne Dreyer,f
+992965,Mary Cybulski,f
+1002623,Tony Adler,m
+1007758,Roberto Savarese,m
+1051964,Carlos Hidalgo,m
+1102140,Adam Somner,x
+1111195,Slatan Dudow,m
+1120536,Fernando Altschul,x
+1128252,Aimée Peyronnet,x
+1138666,Jerzy Braszka,x
+1138978,Maciej J. Drygas,x
+1177814,Frédéric Garson,x
+1187141,Masayuki Miyaji,x
+1193336,Stephen P. Dunn,x
+1213162,Todd Holland,x
+1213543,Joe Napolitano,x
+1215659,Andrew Bernstein,m
+1288056,Sylvette Baudrot,x
+1303969,Marja-Leena Helin,x
+1312999,Horace Hough,x
+1316756,Karen Bédard,x
+1320713,Rebecca Asher,x
+1335599,Caroline Sascha Cogez,x
+1338357,Betty Goldberg,f
+1338840,Marion Tumen,x
+1340126,Elizabeth Tremblay,x
+1340919,Dug Rotstein,x
+1341865,Ana Maria Quintana,f
+1342669,Jayne-Ann Tenggren,x
+1343610,Edward Donahue,x
+1344278,Pamela Alch,f
+1351504,Edmond F. Bernoudy,x
+1359894,Burt Bluestein,x
+1365211,Sylvain Bressollette,x
+1367508,Steve Gehrke,m
+1370935,Michel Romanoff,x
+1373729,Lisa Vick,f
+1377140,Mable Lawson-McCrary,x
+1391605,Annie Welles,f
+1393455,Eva Z. Cabrera,f
+1393897,Eve Spence,x
+1394313,Karin Anderson,x
+1394958,Kelly L'Estrange,x
+1400540,Sheila Waldron,f
+1400738,Karen Golden,f
+1401155,Monika Petrillo,f
+1406791,Sabine Zimmer,x
+1406986,Penny Eyles,x
+1407676,Mary Haddow,x
+1409284,Judi Townsend,f
+1410821,Kathleen Fagan,x
+1427298,Camille Lipmann,x
+1427699,John Franco,x
+1427849,Zoe Morgan,x
+1431975,Sonny P. Filippini,x
+1434225,Susan Malerstein,x
+1447342,Matthew Schofield,x
+1447450,Ivaylo Anguelov,x
+1447458,Rufino Camacho,x
+1447459,Roberto Casale,x
+1447473,Jeff Johnson,x
+1447474,Jay Jackson,x
+1447478,Eric Koenig,x
+1447481,Andre Medina,x
+1447482,Jennifer Moeller,x
+1447511,J.C. Wegman,x
+1447594,Manny DeGuzman,x
+1453044,Richard Manginsay,x
+1453319,Faye Brenner,x
+1454249,Frans Vischer,x
+1455417,Betty A. Griffin,f
+1457833,Marilyn Giardino,x
+1457898,Grant Lucibello,x
+1459201,Kathryn Waters,x
+1459591,Kay Chapin,f
+1459966,Teresa Violetta Buhl,x
+1460442,Eddie Rosas,x
+1460475,Nate Lowe,x
+1460481,Juan 'Jo' Luna,x
+1462919,Nikki Clapp,f
+1467116,Christopher Newman,x
+1471947,Chris Carreras,x
+1472596,Mickey McCardle,x
+1475003,Chris Soldo,x
+1512798,Jamie Christopher,x
+1518593,B.J. Bjorkman,x
+1529473,Russell Saunders,x
+1530090,Rosemary C. Cremona,x
+1530900,Takahide Kawakami,x
+1533037,Jillian Giacomini,f
+1533790,Ira Hurvitz,x
+1536383,Kevin Cooper,x
+1544868,Michal Zarnecki,x
+1546213,Marilyn Bailey,x
+1551188,Anne Wermelinger,x
+1551970,Christophe Vassort,x
+1552022,Mark Cotone,x
+1552196,T. Kukovinski,x
+1559639,Jeff Rafner,x
+1559640,Donald Murphy,x
+1561591,Richard Patrick,m
+1565149,Robert P. Cohen,x
+1566280,Nilo Otero,x
+1568511,Peter R. Scoppa,x
+1625347,Tony Brandt,x
+1630221,Alan Hopkins,x
+1639186,Irva Mae Ross,x
+1643667,Ali Cherkaoui,x
+1646248,Gary Romolo Fiorelli,x
+1651930,Lola García,x
+1685556,Brian Bettwy,x
+1699144,Colin Benoit,x
+1734699,Michael J. Moore,m
+1735712,Pascal Roy,x
+1735731,David Larson,x
+1815942,Takashi Tanazawa,x
+1821634,Simon Downes,x
+1840120,Kennedy Taylor,x
+1840121,Jonathan Tex Levitt,x
+1840122,Texas Dave,x
+1844811,Susan J. Hellmann,f
+1857475,Robert Grayson,x
+1857476,Susan Inge Wood,x
+1857478,Kevin Westley,x
+1857480,Didier Kwak,x
+1867198,Trey Batchelor,x
+1877151,Gabriela Gurrola,x

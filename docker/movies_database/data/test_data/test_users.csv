@@ -1,0 +1,1001 @@
+first_name,last_name,gender,birthdate,city,country,does_account_exists
+Georgi,Facello,m,1953-09-02,New York City,United States,false
+Bezalel,Simmel,f,1964-06-02,Los Angeles,United States,false
+Parto,Bamford,m,1959-12-03,Chicago,United States,false
+Chirstian,Koblick,m,1954-05-01,Houston,United States,false
+Kyoichi,Maliniak,m,1955-01-21,Phoenix,United States,false
+Anneke,Preusig,f,1953-04-20,San Antonio,United States,false
+Tzvetan,Zielinski,f,1957-05-23,San Diego,United States,false
+Saniya,Kalloufi,m,1958-02-19,Dallas,United States,false
+Sumant,Peac,f,1952-04-19,Austin,United States,false
+Duangkaew,Piveteau,f,1963-06-01,Jacksonville,United States,false
+Mary,Sluis,f,1953-11-07,Fort Worth,United States,false
+Patricio,Bridgland,m,1960-10-04,San Jose,United States,false
+Eberhardt,Terkki,m,1963-06-07,Columbus,United States,false
+Berni,Genin,m,1956-02-12,Charlotte,United States,false
+Guoxiang,Nooteboom,m,1959-08-19,Indianapolis,United States,false
+Kazuhito,Cappelletti,m,1961-05-02,New York City,United States,false
+Cristinel,Bouloucos,f,1958-07-06,Los Angeles,United States,false
+Kazuhide,Peha,f,1954-06-19,Chicago,United States,false
+Lillian,Haddadi,m,1953-01-23,Houston,United States,false
+Mayuko,Warwick,m,1952-12-24,Phoenix,United States,false
+Ramzi,Erde,m,1960-02-20,San Antonio,United States,false
+Shahaf,Famili,m,1952-07-08,San Diego,United States,false
+Bojan,Montemayor,f,1953-09-29,Dallas,United States,false
+Suzette,Pettey,f,1958-09-05,Austin,United States,false
+Prasadram,Heyers,m,1958-10-31,Jacksonville,United States,false
+Yongqiao,Berztiss,m,1953-04-03,Fort Worth,United States,false
+Divier,Reistad,f,1962-07-10,San Jose,United States,false
+Domenick,Tempesti,m,1963-11-26,Columbus,United States,false
+Otmar,Herbst,m,1956-12-13,Charlotte,United States,false
+Elvis,Demeyer,m,1958-07-14,Indianapolis,United States,false
+Karsten,Joslin,m,1959-01-27,New York City,United States,false
+Jeong,Reistad,f,1960-08-09,Los Angeles,United States,false
+Arif,Merlo,m,1956-11-14,Chicago,United States,false
+Bader,Swan,m,1962-12-29,Houston,United States,false
+Alain,Chappelet,m,1953-02-08,Phoenix,United States,false
+Adamantios,Portugali,m,1959-08-10,San Antonio,United States,false
+Pradeep,Makrucki,m,1963-07-22,San Diego,United States,false
+Huan,Lortz,m,1960-07-20,Dallas,United States,false
+Alejandro,Brender,m,1959-10-01,Austin,United States,false
+Weiyi,Meriste,f,1959-09-13,Jacksonville,United States,false
+Uri,Lenart,f,1959-08-27,Fort Worth,United States,false
+Magy,Stamatiou,f,1956-02-26,San Jose,United States,false
+Yishay,Tzvieli,m,1960-09-19,Columbus,United States,false
+Mingsen,Casley,f,1961-09-21,Charlotte,United States,false
+Moss,Shanbhogue,m,1957-08-14,Indianapolis,United States,false
+Lucien,Rosenbaum,m,1960-07-23,New York City,United States,false
+Zvonko,Nyanchama,m,1952-06-29,Los Angeles,United States,false
+Florian,Syrotiuk,m,1963-07-11,Chicago,United States,false
+Basil,Tramer,f,1961-04-24,Houston,United States,false
+Yinghua,Dredge,m,1958-05-21,Phoenix,United States,false
+Hidefumi,Caine,m,1953-07-28,San Antonio,United States,false
+Heping,Nitsch,m,1961-02-26,San Diego,United States,false
+Sanjiv,Zschoche,f,1954-09-13,Dallas,United States,false
+Mayumi,Schueller,m,1957-04-04,Austin,United States,false
+Georgy,Dredge,m,1956-06-06,Jacksonville,United States,false
+Brendon,Bernini,f,1961-09-01,Fort Worth,United States,false
+Ebbe,Callaway,f,1954-05-30,San Jose,United States,false
+Berhard,McFarlin,m,1954-10-01,Columbus,United States,false
+Alejandro,McAlpine,f,1953-09-19,Charlotte,United States,false
+Breannda,Billingsley,m,1961-10-15,Indianapolis,United States,false
+Tse,Herber,m,1962-10-19,New York City,United States,false
+Anoosh,Peyn,m,1961-11-02,Los Angeles,United States,false
+Gino,Leonhardt,f,1952-08-06,Chicago,United States,false
+Udi,Jansch,m,1959-04-07,Houston,United States,false
+Satosi,Awdeh,m,1963-04-14,Phoenix,United States,false
+Kwee,Schusler,m,1952-11-13,San Antonio,United States,false
+Claudi,Stavenow,m,1953-01-07,San Diego,United States,false
+Charlene,Brattka,m,1962-11-26,Dallas,United States,false
+Margareta,Bierman,f,1960-09-06,Austin,United States,false
+Reuven,Garigliano,m,1955-08-20,Jacksonville,United States,false
+Hisao,Lipner,m,1958-01-21,Fort Worth,United States,false
+Hironoby,Sidou,f,1952-05-15,San Jose,United States,false
+Shir,McClurg,m,1954-02-23,Columbus,United States,false
+Mokhtar,Bernatsky,f,1955-08-28,Charlotte,United States,false
+Gao,Dolinsky,f,1960-03-09,Indianapolis,United States,false
+Erez,Ritzmann,f,1952-06-13,New York City,United States,false
+Mona,Azuma,m,1964-04-18,Los Angeles,United States,false
+Danel,Mondadori,f,1959-12-25,Chicago,United States,false
+Kshitij,Gils,f,1961-10-05,Houston,United States,false
+Premal,Baek,m,1957-12-03,Phoenix,United States,false
+Zhongwei,Rosen,m,1960-12-17,San Antonio,United States,false
+Parviz,Lortz,m,1963-09-09,San Diego,United States,false
+Vishv,Zockler,m,1959-07-23,Dallas,United States,false
+Tuval,Kalloufi,m,1960-05-25,Austin,United States,false
+Kenroku,Malabarba,m,1962-11-07,Jacksonville,United States,false
+Somnath,Foote,m,1962-11-19,Fort Worth,United States,false
+Xinglin,Eugenio,f,1959-07-23,San Jose,United States,false
+Jungsoon,Syrzycki,f,1954-02-25,Columbus,United States,false
+Sudharsan,Flasterstein,f,1963-03-21,Charlotte,United States,false
+Kendra,Hofting,m,1961-05-30,Indianapolis,United States,false
+Amabile,Gomatam,m,1955-10-04,New York City,United States,false
+Valdiodio,Niizuma,f,1964-10-18,Los Angeles,United States,false
+Sailaja,Desikan,m,1964-06-11,Chicago,United States,false
+Arumugam,Ossenbruggen,f,1957-05-25,Houston,United States,false
+Hilari,Morton,m,1965-01-03,Phoenix,United States,false
+Jayson,Mandell,m,1954-09-16,San Antonio,United States,false
+Remzi,Waschkowski,m,1952-02-27,San Diego,United States,false
+Sreekrishna,Servieres,f,1961-09-23,Dallas,United States,false
+Valter,Sullins,f,1956-05-25,Austin,United States,false
+Hironobu,Haraldson,f,1953-04-21,Jacksonville,United States,false
+Perla,Heyers,f,1952-04-15,Fort Worth,United States,false
+Paraskevi,Luby,f,1959-11-04,San Jose,United States,false
+Akemi,Birch,m,1953-11-26,Columbus,United States,false
+Xinyu,Warwick,m,1961-11-19,Charlotte,United States,false
+Hironoby,Piveteau,m,1962-02-05,Indianapolis,United States,false
+Eben,Aingworth,m,1952-08-29,New York City,United States,false
+Dung,Baca,f,1956-06-13,Los Angeles,United States,false
+Lunjin,Giveon,m,1952-04-07,Chicago,United States,false
+Mariusz,Prampolini,f,1958-11-25,Houston,United States,false
+Xuejia,Ullian,f,1957-03-07,Phoenix,United States,false
+Hugo,Rosis,f,1963-08-29,San Antonio,United States,false
+Yuichiro,Swick,f,1963-08-13,San Diego,United States,false
+Jaewon,Syrzycki,m,1963-11-13,Dallas,United States,false
+Munir,Demeyer,f,1957-02-16,Austin,United States,false
+Chikara,Rissland,m,1964-12-25,Jacksonville,United States,false
+Dayanand,Czap,f,1955-08-26,Fort Worth,United States,false
+Kiyotoshi,Blokdijk,f,1961-10-24,San Jose,United States,false
+Zhonghui,Zyda,f,1957-03-29,Columbus,United States,false
+Domenick,Peltason,m,1960-12-01,Charlotte,United States,false
+Armond,Fairtlough,f,1960-03-26,Indianapolis,United States,false
+Guoxiang,Ramsay,m,1962-07-14,New York City,United States,false
+Ohad,Esposito,m,1965-01-19,Los Angeles,United States,false
+Hinrich,Randi,m,1962-05-12,Chicago,United States,false
+Geraldo,Marwedel,m,1962-05-23,Houston,United States,false
+Syozo,Hiltgen,f,1957-09-13,Phoenix,United States,false
+Kayoko,Valtorta,m,1954-08-07,San Antonio,United States,false
+Subir,Baja,f,1952-02-24,San Diego,United States,false
+Babette,Lamba,f,1958-02-15,Dallas,United States,false
+Armond,Peir,m,1955-12-02,Austin,United States,false
+Nishit,Casperson,m,1955-04-27,Jacksonville,United States,false
+Magdalena,Eldridge,m,1952-02-19,Fort Worth,United States,false
+Ayakannu,Skrikant,m,1956-12-15,San Jose,United States,false
+Giri,Isaak,m,1963-12-12,Columbus,United States,false
+Diederik,Siprelle,m,1953-04-15,Charlotte,United States,false
+Nathan,Monkewich,m,1956-12-23,Indianapolis,United States,false
+Zissis,Pintelas,m,1961-09-14,New York City,United States,false
+Maren,Hutton,m,1959-07-30,Los Angeles,United States,false
+Perry,Shimshoni,m,1955-04-24,Chicago,United States,false
+Ewing,Foong,f,1963-03-03,Houston,United States,false
+Yucel,Auria,f,1957-03-11,Phoenix,United States,false
+Shahaf,Ishibashi,f,1960-01-17,San Antonio,United States,false
+Tzvetan,Hettesheimer,m,1956-08-29,San Diego,United States,false
+Sakthirel,Bakhtari,m,1961-07-16,Dallas,United States,false
+Marla,Brendel,m,1959-06-17,Austin,United States,false
+Akemi,Esposito,f,1956-03-30,Jacksonville,United States,false
+Chenyi,Syang,m,1959-01-12,Fort Worth,United States,false
+Kazuhito,Encarnacion,m,1964-10-13,San Jose,United States,false
+Douadi,Azumi,m,1957-10-04,Columbus,United States,false
+Xiadong,Perry,f,1953-05-20,Charlotte,United States,false
+Zhenbing,Perng,f,1955-01-29,Indianapolis,United States,false
+Itzchak,Lichtner,m,1959-03-06,New York City,United States,false
+Jaques,Munro,f,1954-12-01,Los Angeles,United States,false
+Heekeun,Majewski,m,1955-12-15,Chicago,United States,false
+Abdulah,Thibadeau,f,1957-01-17,Houston,United States,false
+Adas,Nastansky,m,1959-12-07,Phoenix,United States,false
+Sumali,Fargier,m,1964-09-19,San Antonio,United States,false
+Nigel,Aloisi,m,1954-04-23,San Diego,United States,false
+Khedija,Mitsuhashi,m,1958-04-01,Dallas,United States,false
+Serif,Buescher,m,1955-03-03,Austin,United States,false
+Debatosh,Khasidashvili,m,1953-10-18,Jacksonville,United States,false
+Hairong,Mellouli,f,1953-04-06,Fort Worth,United States,false
+Florina,Eugenio,m,1957-10-05,San Jose,United States,false
+Karsten,Szmurlo,m,1952-09-17,Columbus,United States,false
+Jagoda,Braunmuhl,m,1956-01-19,Charlotte,United States,false
+Miyeon,Macedo,m,1960-06-16,Indianapolis,United States,false
+Samphel,Siegrist,f,1953-05-10,New York City,United States,false
+Duangkaew,Rassart,m,1958-05-23,Los Angeles,United States,false
+Dharmaraja,Stassinopoulos,m,1964-09-11,New York City,United States,false
+Sampalli,Snedden,f,1961-05-03,New York City,United States,false
+Kasturi,Jenevein,f,1960-10-03,New York City,United States,false
+Herbert,Trachtenberg,m,1957-09-11,New York City,United States,false
+Shigeu,Matzen,f,1957-03-25,New York City,United States,false
+Shrikanth,Mahmud,m,1962-10-28,New York City,United States,false
+Badri,Furudate,m,1959-05-15,New York City,United States,false
+Aleksandar,Ananiadou,f,1960-01-11,New York City,United States,false
+Brendon,Lenart,f,1957-01-24,New York City,United States,false
+Pragnesh,Iisaka,m,1954-11-08,New York City,United States,false
+Valery,Litvinov,m,1963-03-13,New York City,United States,false
+Deniz,Duclos,f,1961-11-25,New York City,United States,false
+Shaw,Wendorf,m,1956-01-29,New York City,United States,false
+Sibyl,Nooteboom,m,1963-01-22,New York City,United States,false
+Moriyoshi,Merey,f,1961-02-04,New York City,United States,false
+Mechthild,Bonifati,m,1954-10-17,New York City,United States,false
+Mihalis,Lowrie,m,1957-05-22,New York City,United States,false
+Duro,Sidhu,f,1959-12-05,New York City,United States,false
+Shigehito,Kropatsch,m,1953-07-16,New York City,United States,false
+Tommaso,Narwekar,f,1961-05-26,New York City,United States,false
+Christ,Muchinsky,f,1956-07-13,New York City,United States,false
+Khalid,Erva,m,1955-11-12,New York City,United States,false
+Arve,Fairtlough,f,1964-12-11,New York City,United States,false
+Zdislav,Nastansky,m,1959-04-08,New York City,United States,false
+Mohua,Falck,m,1960-09-16,New York City,United States,false
+Masaru,Cheshire,m,1960-06-29,New York City,United States,false
+Josyula,Hofmeyr,f,1954-01-29,New York City,United States,false
+Annemarie,Redmiles,m,1963-11-13,New York City,United States,false
+Marc,Hellwagner,m,1954-01-27,New York City,United States,false
+Kasidit,Krzyzanowski,f,1963-08-06,New York City,United States,false
+Pranav,Furedi,m,1953-05-28,New York City,United States,false
+Kazuhisa,Ranta,m,1959-04-07,Los Angeles,United States,false
+Vidya,Awdeh,m,1961-12-31,Los Angeles,United States,false
+Idoia,Kavraki,f,1956-12-15,Los Angeles,United States,false
+Greger,Lichtner,m,1956-01-05,Los Angeles,United States,false
+Steen,Escriba,m,1955-07-27,Los Angeles,United States,false
+Nevio,Ritcey,f,1956-12-09,Los Angeles,United States,false
+Mabhin,Leijenhorst,f,1953-05-20,Los Angeles,United States,false
+Alassane,Iwayama,f,1960-09-19,Los Angeles,United States,false
+Girolamo,Anandan,f,1955-05-28,Los Angeles,United States,false
+Xiping,Klerer,m,1960-01-02,Los Angeles,United States,false
+Yolla,Ellozy,f,1956-12-12,Los Angeles,United States,false
+Yuping,Alpin,m,1958-01-24,Los Angeles,United States,false
+Vishu,Strehl,f,1964-08-05,Los Angeles,United States,false
+Divier,Esteva,m,1959-05-09,Los Angeles,United States,false
+Jackson,Kakkad,m,1964-05-24,Los Angeles,United States,false
+Tadahiko,Ciolek,m,1962-04-14,Los Angeles,United States,false
+Xiaobin,Duclos,m,1954-04-02,Los Angeles,United States,false
+Amstein,Ghemri,m,1958-07-16,Los Angeles,United States,false
+Yongmin,Roison,f,1954-07-07,Los Angeles,United States,false
+Zhenhua,Magalhaes,m,1958-12-07,Los Angeles,United States,false
+Genta,Kolvik,m,1952-05-02,Los Angeles,United States,false
+Kish,Fasbender,f,1958-05-25,Los Angeles,United States,false
+Yucai,Granlund,m,1957-01-03,Los Angeles,United States,false
+Tze,Nourani,m,1962-09-21,Los Angeles,United States,false
+Carrsten,Schmiedel,f,1963-09-17,Los Angeles,United States,false
+Leon,Trogemann,m,1954-05-17,Los Angeles,United States,false
+Kellie,Chinen,f,1957-02-13,Los Angeles,United States,false
+Xinglin,Plessier,m,1964-12-28,Los Angeles,United States,false
+Anneli,Kaiser,m,1957-07-04,Los Angeles,United States,false
+Karoline,Cesareni,f,1953-04-21,Los Angeles,United States,false
+Ulises,Takanami,m,1952-02-10,Los Angeles,United States,false
+Clyde,Vernadat,m,1955-09-11,Los Angeles,United States,false
+Shaowen,Desikan,f,1963-07-21,Los Angeles,United States,false
+Marko,Auria,f,1956-03-11,Los Angeles,United States,false
+Lein,Vendrig,f,1954-04-01,Los Angeles,United States,false
+Arunachalam,Bakhtari,m,1961-01-18,Los Angeles,United States,false
+Susanta,Roccetti,f,1958-03-27,Los Angeles,United States,false
+Susumu,Bade,f,1960-03-26,Los Angeles,United States,false
+Yannis,Mandell,f,1952-09-22,Los Angeles,United States,false
+Mototsugu,Gire,f,1964-11-02,Los Angeles,United States,false
+Nikolaos,Llado,f,1955-03-31,Los Angeles,United States,false
+Remko,Maccarone,m,1952-04-01,Los Angeles,United States,false
+Ortrud,Murillo,m,1958-07-01,Los Angeles,United States,false
+Lunjin,Ozeri,m,1964-02-22,Los Angeles,United States,false
+Wonhee,Pouyioutas,m,1960-12-22,Los Angeles,United States,false
+Foong,Flasterstein,m,1961-10-24,Los Angeles,United States,false
+Ramalingam,Gente,f,1962-08-23,Los Angeles,United States,false
+Basem,Teitelbaum,m,1962-06-23,Los Angeles,United States,false
+Heon,Riefers,f,1964-06-30,Houston,United States,false
+Frederique,Tempesti,f,1955-09-24,Houston,United States,false
+Marie,Boreale,m,1954-06-10,Houston,United States,false
+Serap,Etalle,m,1958-08-12,Houston,United States,false
+Alair,Rosenbaum,m,1957-04-25,Houston,United States,false
+Shirish,Wegerle,f,1961-01-30,Houston,United States,false
+Zsolt,Salinas,f,1964-11-12,Houston,United States,false
+Shen,Brattka,m,1959-12-07,Houston,United States,false
+Roddy,Garnick,m,1964-02-08,Houston,United States,false
+Irene,Radhakrishnan,m,1960-12-02,Houston,United States,false
+Aiman,Riexinger,m,1957-09-12,Houston,United States,false
+Basil,Ishibashi,f,1955-12-12,Houston,United States,false
+Susanna,Vesel,m,1964-11-24,Houston,United States,false
+Alper,Suomi,f,1961-07-14,Houston,United States,false
+Mang,Erie,m,1959-12-25,Houston,United States,false
+Mahendra,Maraist,f,1955-08-04,Houston,United States,false
+Takahiro,Waterhouse,m,1961-02-08,Houston,United States,false
+Nalini,Kawashimo,f,1958-09-08,Houston,United States,false
+Ramalingam,Muniz,m,1960-12-01,Houston,United States,false
+Sukumar,Rassart,m,1958-02-24,Houston,United States,false
+Shaunak,Cullers,m,1956-01-16,Houston,United States,false
+Nishit,Siochi,m,1958-06-03,Houston,United States,false
+Taizo,Oxman,f,1959-10-07,Houston,United States,false
+Bedir,Hartvigsen,f,1963-01-30,Houston,United States,false
+Sham,Eastman,m,1962-04-24,Houston,United States,false
+Yishai,Cannane,m,1954-11-30,Houston,United States,false
+Baocai,Lieblein,m,1962-08-29,Houston,United States,false
+Dmitri,Pearson,f,1957-08-23,Houston,United States,false
+Marek,Luck,f,1961-10-22,Houston,United States,false
+Xuejun,Hempstead,m,1964-07-27,Houston,United States,false
+Isaac,Schwartzbauer,m,1964-08-15,Houston,United States,false
+Lubomir,Nitsch,m,1955-03-09,Houston,United States,false
+Barton,Jumpertz,f,1964-08-20,Houston,United States,false
+Stabislas,Delgrange,m,1964-10-29,Houston,United States,false
+Moty,Kusakari,m,1953-05-13,Houston,United States,false
+Hercules,Benzmuller,m,1953-11-27,Houston,United States,false
+Kauko,Birjandi,m,1953-07-08,Houston,United States,false
+Masali,Murrill,f,1954-04-08,Houston,United States,false
+Zhonghui,Preusig,f,1956-09-21,Houston,United States,false
+Saddek,Gopalakrishnan,f,1952-05-14,Houston,United States,false
+Marie,Pietracaprina,m,1963-11-28,Houston,United States,false
+Selwyn,Perri,m,1959-06-02,Chicago,United States,false
+Shay,Poulakidas,m,1956-11-30,Chicago,United States,false
+Yongmao,Pleszkun,m,1957-05-29,Chicago,United States,false
+Dipayan,Seghrouchni,m,1965-01-23,Chicago,United States,false
+Yucel,Ghelli,f,1963-01-27,Chicago,United States,false
+Mihalis,Avouris,f,1956-11-24,Chicago,United States,false
+Rutger,Miara,m,1955-01-05,Chicago,United States,false
+Kristine,Velardi,m,1953-01-13,Chicago,United States,false
+Petter,Lorho,m,1964-05-13,Chicago,United States,false
+Narain,Oaver,f,1956-06-17,Chicago,United States,false
+Dietrich,DuCasse,f,1954-07-06,Chicago,United States,false
+Ipke,Stentiford,f,1960-06-21,Chicago,United States,false
+Tadahiko,Ulupinar,f,1960-07-12,Chicago,United States,false
+Lucien,Staudhammer,m,1962-08-26,Chicago,United States,false
+Faiza,Baer,f,1954-10-11,Chicago,United States,false
+Marlo,Zschoche,m,1961-09-11,Chicago,United States,false
+Bernt,Erie,m,1956-03-07,Chicago,United States,false
+Hirochika,Piancastelli,m,1952-06-30,Chicago,United States,false
+Heng,Kilgour,m,1953-06-02,Chicago,United States,false
+Nikolaos,Leaver,m,1955-07-20,Chicago,United States,false
+Dzung,Holburn,f,1961-03-14,Chicago,United States,false
+Prodip,Schusler,f,1964-11-06,Chicago,United States,false
+Aksel,Alencar,m,1964-08-29,Chicago,United States,false
+Hsiangchu,Molenkamp,f,1958-11-24,Chicago,United States,false
+Rasiah,Deyuan,f,1957-06-18,Chicago,United States,false
+Subbu,Riexinger,m,1962-05-30,Chicago,United States,false
+Christfried,Apsitis,m,1961-05-04,Chicago,United States,false
+Maris,Angelopoulos,m,1956-08-03,Phoenix,United States,false
+Christoper,Schwaller,m,1958-06-20,Phoenix,United States,false
+Arie,Birge,m,1957-12-25,Phoenix,United States,false
+Mototsugu,Beilner,f,1958-08-27,Phoenix,United States,false
+Mechthild,Miyakawa,m,1963-03-09,Phoenix,United States,false
+Uinam,Stasinski,f,1956-06-22,Phoenix,United States,false
+Guenter,Ravishankar,m,1955-12-12,Phoenix,United States,false
+Isamu,Dahlbom,f,1954-05-28,Phoenix,United States,false
+Kankanahalli,Hinsberger,m,1958-06-20,Phoenix,United States,false
+Bernardo,Rouquie,f,1957-12-29,Phoenix,United States,false
+Arunachalam,Badr,m,1953-01-12,Phoenix,United States,false
+Masali,Czap,f,1953-02-13,Phoenix,United States,false
+Roded,Facello,m,1954-04-01,Phoenix,United States,false
+Serenella,Kawashima,m,1955-06-28,Phoenix,United States,false
+Remko,Shigei,f,1958-04-28,Phoenix,United States,false
+Kasturi,Bellmore,m,1957-02-02,Phoenix,United States,false
+Arto,Binkley,m,1961-08-12,Phoenix,United States,false
+Masanao,Bain,f,1961-11-05,Phoenix,United States,false
+Snehasis,Dymetman,m,1953-04-27,Phoenix,United States,false
+Falguni,Erie,m,1958-04-02,Phoenix,United States,false
+Toshimori,Bahi,f,1963-03-13,Phoenix,United States,false
+Goa,Rothe,f,1961-07-16,Phoenix,United States,false
+Jeong,Sadowsky,m,1957-12-10,Phoenix,United States,false
+Heon,Ranai,m,1961-02-12,Phoenix,United States,false
+Teunis,Liedekerke,m,1957-08-27,Phoenix,United States,false
+Djelloul,Laventhal,m,1952-08-20,Phoenix,United States,false
+Wilmer,Greenaway,f,1960-11-22,Phoenix,United States,false
+Stella,Hiroyama,f,1960-03-17,Phoenix,United States,false
+Dinah,Syrzycki,m,1954-11-01,Phoenix,United States,false
+Uwe,Garnier,f,1957-07-24,Phoenix,United States,false
+Arra,Ratnakar,m,1960-12-13,Phoenix,United States,false
+Aamod,Radwan,m,1963-01-29,Phoenix,United States,false
+Pradeep,Kaminger,m,1953-10-03,Dallas,United States,false
+Mahendra,Picco,f,1956-03-11,Dallas,United States,false
+Oksana,Brodie,f,1954-04-29,Dallas,United States,false
+Kristen,Kavvadias,f,1954-11-14,Dallas,United States,false
+Tadahiko,Strehl,f,1963-08-23,Dallas,United States,false
+Erzsebet,Ohori,m,1960-01-28,Dallas,United States,false
+Phule,Hammerschmidt,m,1953-01-15,Dallas,United States,false
+Moto,Kusakari,m,1961-04-21,Dallas,United States,false
+Satyanarayana,Cochrane,m,1952-12-10,Dallas,United States,false
+Vasilis,Standera,m,1952-08-12,Dallas,United States,false
+Hausi,Sidhu,m,1964-01-10,Dallas,United States,false
+Qunsheng,Tagansky,m,1953-04-08,Dallas,United States,false
+Heekeun,Sambasivam,f,1960-04-18,Dallas,United States,false
+Irene,Munck,m,1960-11-04,Dallas,United States,false
+Seshu,Sidou,f,1961-04-22,Dallas,United States,false
+Shalesh,dAstous,m,1963-09-16,Dallas,United States,false
+Toshiki,Muniz,f,1953-11-28,Dallas,United States,false
+Nakhoon,Dengi,m,1954-09-21,Dallas,United States,false
+Rosine,Granlund,f,1958-04-28,Dallas,United States,false
+Morrie,Piazza,m,1960-01-25,Dallas,United States,false
+Hyuckchul,Gini,m,1955-12-24,Dallas,United States,false
+Hatim,Koshiba,m,1956-03-25,Dallas,United States,false
+Qunsheng,Toyoshima,m,1957-01-08,Dallas,United States,false
+Clyde,Fandrianto,m,1957-08-03,Dallas,United States,false
+Ioana,Kirkerud,m,1959-02-10,Dallas,United States,false
+Anneli,Frijda,f,1952-04-08,Dallas,United States,false
+Hongzue,Heijenga,m,1959-01-08,Dallas,United States,false
+Willard,Rosin,f,1955-10-08,Dallas,United States,false
+Dante,Kalafatis,f,1957-10-09,Dallas,United States,false
+Fai,Bale,m,1959-02-12,Dallas,United States,false
+Marl,Grospietsch,m,1954-08-19,Dallas,United States,false
+Takahira,Lichtner,m,1964-09-05,Dallas,United States,false
+Mikhail,Rosis,m,1957-03-02,Dallas,United States,false
+Alejandro,Kamble,f,1956-05-25,Dallas,United States,false
+Jiong,Parfitt,m,1963-03-04,Dallas,United States,false
+Shirish,Dredge,m,1955-06-12,Dallas,United States,false
+Leucio,Aumann,m,1963-11-13,Dallas,United States,false
+Feiyu,Luft,m,1956-08-22,Dallas,United States,false
+Khatoun,Imataki,m,1963-05-14,Dallas,United States,false
+Eishiro,Miyakawa,f,1956-11-09,New York City,United States,false
+Parto,Wrigley,f,1952-11-03,New York City,United States,false
+Hironoby,Kaiser,m,1953-03-29,New York City,United States,false
+Make,Peir,m,1953-03-24,New York City,United States,false
+Wanqing,Bratten,m,1960-03-07,New York City,United States,false
+Hongzue,Akaboshi,m,1956-06-13,New York City,United States,false
+Jiann,Hainaut,m,1962-02-17,New York City,United States,false
+Yagil,DasSarma,m,1958-03-24,New York City,United States,false
+Shawna,Meriste,m,1957-05-22,New York City,United States,false
+Takahiro,Deverell,m,1952-02-17,New York City,United States,false
+Sibyl,Rahier,m,1955-08-21,New York City,United States,false
+Irena,Reutenauer,m,1955-11-11,New York City,United States,false
+Shooichi,Escriba,f,1958-07-16,New York City,United States,false
+Guenter,Marchegay,f,1957-06-13,New York City,United States,false
+Ortrud,Nitto,m,1961-12-16,New York City,United States,false
+Eckart,Barriga,m,1962-04-25,New York City,United States,false
+Volkmar,Ebeling,m,1953-07-23,New York City,United States,false
+Atreyi,Mungall,f,1956-04-01,New York City,United States,false
+Prodip,Rosti,f,1955-04-27,New York City,United States,false
+Hilary,Budinsky,f,1957-01-20,New York City,United States,false
+Sigeru,Wynblatt,f,1956-09-21,New York City,United States,false
+Ulf,Siepmann,m,1955-07-05,New York City,United States,false
+Martijn,Kaiser,m,1964-03-17,New York City,United States,false
+Mario,Straney,m,1958-08-28,New York City,United States,false
+Takahito,Gecsei,f,1965-01-19,New York City,United States,false
+Lidong,Klerer,f,1956-07-10,New York City,United States,false
+Masoud,Fabrizio,f,1958-02-26,New York City,United States,false
+Danel,Impagliazzo,f,1952-05-05,New York City,United States,false
+Yinlin,Alpin,m,1954-04-09,New York City,United States,false
+Mark,Coorg,m,1957-11-12,New York City,United States,false
+Uli,Keustermans,m,1956-05-26,Los Angeles,United States,false
+Bingning,Bakhtari,m,1964-02-02,Chicago,United States,false
+Candida,Porotnikoff,f,1952-06-29,Houston,United States,false
+Maria,Bauknecht,f,1964-06-22,Phoenix,United States,false
+Kaijung,Riesenhuber,m,1963-03-03,San Antonio,United States,false
+Divine,Marzano,m,1959-03-22,San Diego,United States,false
+Greger,Rubsam,f,1954-06-02,Dallas,United States,false
+Dante,Cronin,f,1956-01-10,Austin,United States,false
+Babette,Straney,m,1959-08-17,Jacksonville,United States,false
+Sashi,Osgood,m,1963-10-24,Fort Worth,United States,false
+Arunas,Luce,f,1955-12-28,San Jose,United States,false
+Khosrow,Sudbeck,f,1958-08-13,Columbus,United States,false
+Cathie,Brlek,m,1957-06-25,Charlotte,United States,false
+Martien,Improta,f,1952-02-13,Indianapolis,United States,false
+Ferdinand,Chenney,m,1958-06-30,New York City,United States,false
+Patricio,Bugrara,m,1961-05-25,Los Angeles,United States,false
+Hisao,Tiemann,f,1953-11-06,Chicago,United States,false
+Reuven,Dengi,m,1954-09-02,Houston,United States,false
+Dzung,Peltason,f,1959-07-17,Phoenix,United States,false
+Marsha,Tagansky,m,1957-10-12,San Antonio,United States,false
+Yahiko,Lammel,m,1963-06-17,San Diego,United States,false
+Narain,Reeker,f,1956-07-07,Dallas,United States,false
+Evgueni,Srimani,f,1961-12-25,Austin,United States,false
+Jolita,Jarecki,m,1958-04-09,Jacksonville,United States,false
+Akeel,Narahara,f,1959-04-10,Fort Worth,United States,false
+Adel,Perfilyeva,m,1958-04-27,San Jose,United States,false
+Volkmar,Unno,m,1955-09-09,Columbus,United States,false
+Shichao,Litvinov,f,1952-12-03,Charlotte,United States,false
+Kazuhira,Rosis,m,1956-07-29,Indianapolis,United States,false
+Junichi,Kavanagh,f,1957-01-10,New York City,United States,false
+Ebru,Chepyzhov,f,1960-02-08,Los Angeles,United States,false
+Ronghao,Yavatkar,f,1962-10-24,Chicago,United States,false
+Phule,Oxenboll,f,1963-12-10,Houston,United States,false
+Aleksandar,Sudkamp,m,1959-09-28,Phoenix,United States,false
+Khun,Harbusch,m,1959-11-05,San Antonio,United States,false
+Bodh,Ranta,f,1952-10-06,San Diego,United States,false
+Werner,Hasham,m,1956-11-24,Dallas,United States,false
+Tsvetan,Matzel,f,1953-07-19,Austin,United States,false
+Wonhee,Badr,m,1961-01-22,Jacksonville,United States,false
+Sverrir,Streng,f,1963-12-17,Fort Worth,United States,false
+Stepehn,Hardjono,f,1963-01-24,San Jose,United States,false
+Oddvar,Schlenzig,m,1963-11-10,Columbus,United States,false
+Gina,Engelmann,f,1961-01-06,Charlotte,United States,false
+Ennio,Trogemann,m,1959-09-30,Indianapolis,United States,false
+Shushma,VanScheik,m,1963-02-19,New York City,United States,false
+Gal,Karcich,m,1956-10-26,Los Angeles,United States,false
+Sumali,Schlenzig,m,1956-04-08,Chicago,United States,false
+Ung,Zaiane,m,1954-05-20,Houston,United States,false
+Mang,Maginnis,f,1962-09-04,Phoenix,United States,false
+Claudi,Shackel,m,1963-03-13,San Antonio,United States,false
+Jiakeng,Himler,m,1954-12-25,San Diego,United States,false
+Dipayan,Suomi,f,1956-01-30,Dallas,United States,false
+Yoshimitsu,Shobatake,m,1960-08-28,Austin,United States,false
+Munehiko,Ananiadou,m,1964-12-22,Jacksonville,United States,false
+Peternela,Iwayama,m,1956-04-12,Fort Worth,United States,false
+Jouko,Yamaashi,m,1963-11-30,San Jose,United States,false
+Salvador,Lodder,m,1959-08-20,Columbus,United States,false
+Przemyslawa,Oskamp,m,1963-10-13,Charlotte,United States,false
+Kenton,Garnham,f,1962-02-24,Indianapolis,United States,false
+Mario,Rodite,m,1956-12-19,New York City,United States,false
+Kokou,Iisaka,m,1965-01-01,Los Angeles,United States,false
+Guoxiang,Trogemann,f,1952-12-07,Chicago,United States,false
+Maik,Ushiama,m,1957-03-08,Houston,United States,false
+Duro,Coney,f,1959-01-27,Phoenix,United States,false
+Make,Baba,f,1965-01-25,San Antonio,United States,false
+Yongmao,Pintelas,f,1959-10-18,San Diego,United States,false
+Goa,Pleszkun,f,1961-07-17,Dallas,United States,false
+Zhiwei,Anick,m,1957-03-13,Austin,United States,false
+Nirmal,Varley,f,1961-08-30,Jacksonville,United States,false
+Teruyuki,Sundgren,m,1961-09-20,Fort Worth,United States,false
+Amstein,Kossowski,f,1952-08-24,San Jose,United States,false
+Perla,Middleton,f,1956-08-23,Columbus,United States,false
+Mihalis,Heering,m,1959-10-17,Charlotte,United States,false
+Elvia,Homond,m,1958-08-24,Indianapolis,United States,false
+Huiqun,Vuskovic,f,1961-09-28,New York City,United States,false
+Garnik,Narahari,m,1964-09-09,Los Angeles,United States,false
+Lobel,Kumaresan,m,1957-04-03,Chicago,United States,false
+Maris,Haraldson,m,1962-01-12,Houston,United States,false
+Yakkov,Servieres,f,1953-12-21,Phoenix,United States,false
+Anyuan,Zhiwei,f,1961-05-24,San Antonio,United States,false
+Gretta,Baig,m,1959-04-18,San Diego,United States,false
+Pramod,Rabehasaina,m,1953-06-09,Dallas,United States,false
+Valter,Cappelletti,f,1964-09-15,Austin,United States,false
+Maik,Luft,f,1953-10-04,Jacksonville,United States,false
+Vojin,Narwekar,m,1957-04-29,Fort Worth,United States,false
+Susuma,Larfeldt,m,1962-09-09,San Jose,United States,false
+Yonghoan,Marshall,m,1957-10-07,Columbus,United States,false
+Dannz,Pell,m,1952-05-17,Charlotte,United States,false
+Xiong,Varker,m,1953-04-07,Indianapolis,United States,false
+Isamu,Auria,m,1964-02-04,New York City,United States,false
+Kazuhisa,Kroll,f,1958-10-06,Los Angeles,United States,false
+Kasidit,Belinskaya,m,1964-02-18,Chicago,United States,false
+Kotesh,Liedekerke,m,1962-06-02,Houston,United States,false
+Abdelwaheb,Riesenhuber,f,1953-10-03,Phoenix,United States,false
+Keung,Slobodova,f,1960-02-13,San Antonio,United States,false
+Khoa,Marrevee,m,1963-06-18,San Diego,United States,false
+Udi,Gihr,m,1955-11-16,Dallas,United States,false
+Yuichiro,Schicker,f,1959-07-07,Austin,United States,false
+Tomofumi,McClure,m,1963-04-03,Jacksonville,United States,false
+Raimond,Kirkerud,m,1963-12-15,Fort Worth,United States,false
+Xiadong,Luga,m,1960-02-20,San Jose,United States,false
+Tiina,Speek,m,1953-06-18,Columbus,United States,false
+Marin,Lanphier,m,1963-05-23,Charlotte,United States,false
+Yonghoan,Alencar,f,1955-12-28,Indianapolis,United States,false
+Jenwei,Ecklund,m,1964-03-06,New York City,United States,false
+Kwangsub,Setia,m,1957-07-31,Los Angeles,United States,false
+Marke,Cesareni,f,1955-07-24,Chicago,United States,false
+Malu,Skafidas,m,1956-05-16,Houston,United States,false
+Shigehiro,Cincotta,f,1959-05-02,Phoenix,United States,false
+Yuchang,Lunt,m,1963-03-29,San Antonio,United States,false
+Kwangho,Theuretzbacher,f,1963-12-31,San Diego,United States,false
+Tetsushi,Barvinok,f,1964-09-15,Dallas,United States,false
+Koichi,Lakshmanan,f,1963-05-16,Austin,United States,false
+Ymte,Yetto,m,1952-11-21,Jacksonville,United States,false
+Boriana,Coors,f,1956-07-19,Fort Worth,United States,false
+Oguz,Gimbel,f,1954-06-11,San Jose,United States,false
+Mary,Wossner,f,1959-08-31,Columbus,United States,false
+Mohamadou,Smailagic,f,1963-06-25,Charlotte,United States,false
+Dinah,Bahl,m,1964-10-23,Indianapolis,United States,false
+Shalesh,Stroustrup,f,1961-05-19,New York City,United States,false
+Yechiam,Sambasivam,f,1964-10-29,Los Angeles,United States,false
+Stella,Benzmuller,m,1962-06-29,Chicago,United States,false
+Przemyslawa,Falby,m,1955-08-18,Houston,United States,false
+Yucel,Reinhard,m,1959-05-13,Phoenix,United States,false
+Martins,Barriga,m,1961-02-24,San Antonio,United States,false
+Godehard,Eiter,m,1955-11-05,San Diego,United States,false
+Yannis,Couchot,f,1955-01-05,Dallas,United States,false
+Lein,Lichtman,m,1962-10-06,Austin,United States,false
+Ishfaq,Krzyzanowski,f,1962-02-01,Jacksonville,United States,false
+Hauke,dAstous,m,1963-01-12,Fort Worth,United States,false
+Nechama,Schapiro,m,1957-12-20,San Jose,United States,false
+Snehasis,Brobst,m,1963-05-12,Columbus,United States,false
+Ramalingam,Gunderson,m,1952-06-12,Charlotte,United States,false
+Beshir,Kisuki,m,1957-03-20,Indianapolis,United States,false
+Manton,Leuchs,m,1959-08-03,New York City,United States,false
+Jeong,Rijsenbrij,m,1963-10-07,Los Angeles,United States,false
+Kazuhito,Shiratori,m,1953-03-25,Chicago,United States,false
+Rajmohan,Wallrath,f,1964-02-08,Houston,United States,false
+Dines,Gerlach,m,1958-08-01,Phoenix,United States,false
+Vitaly,Picci,m,1962-09-25,San Antonio,United States,false
+JoAnna,Taubman,f,1962-12-31,San Diego,United States,false
+Sashi,Karlin,m,1957-08-23,Dallas,United States,false
+Hisao,Famili,m,1964-10-08,Austin,United States,false
+Arumugam,Comellas,f,1956-01-18,Jacksonville,United States,false
+Yinlin,Esteva,f,1960-05-01,Fort Worth,United States,false
+Serge,Joslin,f,1958-09-07,San Jose,United States,false
+Shuky,Pearson,m,1963-04-17,Columbus,United States,false
+Mohit,Spelt,m,1956-10-27,Charlotte,United States,false
+Jianhao,Thisen,m,1955-04-14,Indianapolis,United States,false
+Yishay,Harnett,m,1961-11-05,New York City,United States,false
+Jianhui,Zuberek,f,1958-01-30,Los Angeles,United States,false
+Dietrich,Journel,m,1957-05-21,Chicago,United States,false
+Gao,Poulakidas,f,1953-12-02,Houston,United States,false
+Sreenivas,Bashian,m,1962-12-03,Phoenix,United States,false
+Alassane,Morrin,m,1958-10-30,San Antonio,United States,false
+Fun,Varman,m,1963-12-10,San Diego,United States,false
+Cordelia,Axelband,m,1960-10-10,Dallas,United States,false
+Tetsushi,Speel,f,1964-02-23,Austin,United States,false
+Salvador,Olano,f,1960-11-11,Jacksonville,United States,false
+Theirry,Yeung,m,1954-06-29,Fort Worth,United States,false
+Xiaoqiu,Krychniak,m,1957-08-23,San Jose,United States,false
+Ennio,Schmiedel,m,1957-09-20,Columbus,United States,false
+Shigeaki,Shanbhogue,f,1958-07-18,Charlotte,United States,false
+Aiman,Stentiford,m,1958-07-17,Indianapolis,United States,false
+Christoper,Rehfuss,m,1956-05-28,New York City,United States,false
+Odinaldo,Prochazka,f,1956-11-20,Los Angeles,United States,false
+Shmuel,Juneja,m,1960-05-08,New York City,United States,false
+Prasadram,Stille,f,1964-03-03,New York City,United States,false
+Mana,Papastamatiou,m,1961-07-12,New York City,United States,false
+Sajjad,Willoner,f,1963-11-10,New York City,United States,false
+Kirk,Vuskovic,m,1954-06-23,New York City,United States,false
+Behnaam,Srimani,f,1962-03-04,New York City,United States,false
+Shigeo,Dulay,f,1956-07-30,New York City,United States,false
+Subbu,Sanella,m,1958-09-25,New York City,United States,false
+Yongqiao,Kalloufi,m,1963-10-01,New York City,United States,false
+Hidde,Hettesheimer,f,1952-12-22,New York City,United States,false
+Almudena,Alvarado,m,1964-08-01,New York City,United States,false
+Falguni,Kenevan,m,1952-07-24,New York City,United States,false
+Kiyokazu,Whitcomb,m,1960-10-22,New York City,United States,false
+Giri,Undy,m,1964-12-10,New York City,United States,false
+Sanjit,Coors,m,1954-01-24,New York City,United States,false
+Lucien,Schaad,f,1961-05-07,New York City,United States,false
+Margo,Gronowski,m,1957-11-10,New York City,United States,false
+Seshu,Crelier,f,1956-10-15,New York City,United States,false
+Emran,Rettelbach,f,1963-08-17,New York City,United States,false
+Barton,Usdin,m,1959-10-23,New York City,United States,false
+Douadi,Wossner,m,1959-11-27,New York City,United States,false
+Wayne,Restivo,m,1955-08-02,New York City,United States,false
+Susanna,Brizzi,m,1957-04-24,New York City,United States,false
+Moti,Wixon,f,1956-05-21,New York City,United States,false
+Toshiki,Marakhovsky,m,1964-03-04,New York City,United States,false
+Rosalyn,Hambrick,f,1964-11-30,New York City,United States,false
+Adhemar,Talmor,f,1955-07-11,New York City,United States,false
+Janche,Zhang,m,1956-10-02,New York City,United States,false
+Irena,Roccetti,f,1955-06-24,New York City,United States,false
+Karsten,Blokdijk,m,1964-05-11,New York City,United States,false
+Gil,Peroz,m,1959-01-01,New York City,United States,false
+Inderjeet,Jansen,m,1960-11-04,Los Angeles,United States,false
+Gila,Ozeri,f,1953-07-11,Los Angeles,United States,false
+Keung,Delgrande,m,1955-08-30,Los Angeles,United States,false
+Tommaso,Marwedel,f,1958-05-05,Los Angeles,United States,false
+Hidekazu,Angel,f,1955-01-26,Los Angeles,United States,false
+Ranga,Yeung,f,1963-08-03,Los Angeles,United States,false
+Vivian,Kusakabe,m,1961-04-27,Los Angeles,United States,false
+Marit,Veeraraghavan,m,1959-11-23,Los Angeles,United States,false
+Hinrich,Siepmann,f,1962-02-03,Los Angeles,United States,false
+Turgut,Narlikar,m,1959-09-15,Los Angeles,United States,false
+Aleksander,Danlos,f,1953-07-11,Los Angeles,United States,false
+Sham,Gyorkos,f,1955-12-19,Los Angeles,United States,false
+Leszek,Petereit,f,1958-02-08,Los Angeles,United States,false
+Danil,Deverell,m,1957-06-26,Los Angeles,United States,false
+Shigeu,Itzfeldt,m,1962-10-06,Los Angeles,United States,false
+Krisda,Krogh,m,1954-04-18,Los Angeles,United States,false
+Lalit,Francisci,f,1954-03-23,Los Angeles,United States,false
+Bezalel,Katzenelson,f,1954-08-10,Los Angeles,United States,false
+Inderjeet,Chaudhuri,m,1955-05-17,Los Angeles,United States,false
+Yoshimitsu,Velardi,f,1960-04-05,Los Angeles,United States,false
+Sorina,Herber,m,1957-02-09,Los Angeles,United States,false
+Nahid,Chepyzhov,m,1954-08-01,Los Angeles,United States,false
+Toney,Angiulli,f,1960-10-29,Los Angeles,United States,false
+Saeko,Porotnikoff,f,1955-08-25,Los Angeles,United States,false
+Heejo,Frolund,m,1954-07-11,Los Angeles,United States,false
+Jenwei,Borovoy,m,1960-11-04,Los Angeles,United States,false
+Pramod,Erol,m,1953-04-18,Los Angeles,United States,false
+Anneke,Meszaros,m,1958-11-09,Los Angeles,United States,false
+Guozhong,Zucker,m,1953-12-24,Los Angeles,United States,false
+Hirochika,Narlikar,m,1955-12-19,Los Angeles,United States,false
+Slavian,Keirsey,m,1957-07-25,Los Angeles,United States,false
+Pranas,Benaini,m,1962-02-22,Los Angeles,United States,false
+Fumiyo,Esposito,m,1957-03-01,Los Angeles,United States,false
+Uri,Chorvat,m,1957-11-24,Los Angeles,United States,false
+Tesuro,Bahk,m,1960-01-12,Los Angeles,United States,false
+Marlo,Ratnaker,f,1962-01-19,Los Angeles,United States,false
+Vitali,Welham,m,1956-03-25,Los Angeles,United States,false
+Hongzhu,Chepyzhov,m,1959-04-09,Los Angeles,United States,false
+Zijian,Maginnis,m,1958-12-31,Los Angeles,United States,false
+Danai,Chachaty,m,1960-04-25,Los Angeles,United States,false
+Otmar,Feinberg,m,1953-06-16,Los Angeles,United States,false
+Nahla,Castellani,f,1960-03-17,Los Angeles,United States,false
+Remko,Dalton,f,1959-02-02,Los Angeles,United States,false
+Sanjay,Litzkow,m,1962-06-18,Los Angeles,United States,false
+Juichirou,Kitsuregawa,m,1958-03-09,Los Angeles,United States,false
+Junsik,Rijckaert,f,1956-11-21,Los Angeles,United States,false
+Dinah,Shackel,f,1956-12-09,Los Angeles,United States,false
+Jouko,Kolinko,m,1964-01-03,Los Angeles,United States,false
+Ottavia,Giarratana,f,1956-04-07,Houston,United States,false
+Arto,Serra,f,1959-10-17,Houston,United States,false
+Teunis,Noriega,m,1965-01-09,Houston,United States,false
+Xumin,Peck,m,1962-06-02,Houston,United States,false
+Qingxiang,Snyers,m,1964-07-28,Houston,United States,false
+Zhonghua,Reeker,m,1964-10-03,Houston,United States,false
+Makato,Cusworth,f,1955-08-05,Houston,United States,false
+Maren,Granlund,f,1959-03-20,Houston,United States,false
+Yurij,Iisaka,f,1956-05-30,Houston,United States,false
+Shunichi,McAffer,m,1962-04-23,Houston,United States,false
+Parviz,Rebaine,m,1953-06-12,Houston,United States,false
+Bluma,Zeilberger,m,1954-03-23,Houston,United States,false
+Hyuckchul,Casperson,m,1959-12-26,Houston,United States,false
+Abdelaziz,Bisiani,m,1961-03-03,Houston,United States,false
+Ymte,Waschkowski,f,1960-03-26,Houston,United States,false
+Valeri,Danley,f,1953-08-26,Houston,United States,false
+Alejandra,Perng,f,1963-02-20,Houston,United States,false
+Chriss,Gide,f,1958-08-21,Houston,United States,false
+Neven,Brender,m,1956-09-25,Houston,United States,false
+Kish,Honglei,m,1962-10-11,Houston,United States,false
+Florina,Garnier,m,1964-12-25,Houston,United States,false
+Bedir,Haumacher,m,1956-07-04,Houston,United States,false
+Guiseppe,Stranks,f,1952-06-18,Houston,United States,false
+Aimee,Tokunaga,f,1956-01-23,Houston,United States,false
+Zongyan,Cusworth,m,1959-01-14,Houston,United States,false
+Avishai,Azadmanesh,f,1963-05-25,Houston,United States,false
+Leon,Kaiser,f,1961-07-25,Houston,United States,false
+Xiaopeng,Lanphier,f,1964-02-28,Houston,United States,false
+Satoru,Otillio,m,1958-09-13,Houston,United States,false
+Matt,Jumpertz,f,1962-09-06,Houston,United States,false
+Denny,Setia,m,1957-11-18,Houston,United States,false
+Larisa,Bage,m,1960-08-11,Houston,United States,false
+Berhard,Daescu,f,1953-12-14,Houston,United States,false
+Rildo,Straney,m,1955-12-16,Houston,United States,false
+Zorica,Acton,m,1962-08-30,Houston,United States,false
+Unal,Fendler,m,1952-03-23,Houston,United States,false
+Bluma,Hiltgen,m,1958-04-09,Houston,United States,false
+Barton,Engberts,m,1959-09-13,Houston,United States,false
+Hatim,Deverell,m,1964-02-02,Houston,United States,false
+Angel,Mondadori,m,1962-11-30,Houston,United States,false
+Hyuncheol,Zolotykh,m,1961-09-30,Houston,United States,false
+Bader,Szemeredi,m,1952-11-25,Chicago,United States,false
+Giri,Baumann,f,1958-06-13,Chicago,United States,false
+Yolla,Kropatsch,m,1960-04-08,Chicago,United States,false
+Hironobu,Wynblatt,m,1963-06-17,Chicago,United States,false
+Gonzalo,Eldridge,m,1959-10-11,Chicago,United States,false
+Moty,Trystram,m,1957-06-04,Chicago,United States,false
+Aral,Erman,m,1959-07-02,Chicago,United States,false
+Jiafu,Mateescu,f,1961-01-06,Chicago,United States,false
+Sorina,Kermarrec,m,1962-12-25,Chicago,United States,false
+Arvind,DuBourdieux,f,1963-06-20,Chicago,United States,false
+Uma,Koprowski,f,1952-04-12,Chicago,United States,false
+Jagoda,Naumovich,m,1959-04-14,Chicago,United States,false
+Aran,Sadowsky,m,1960-09-28,Chicago,United States,false
+Goa,Poehlman,m,1959-11-21,Chicago,United States,false
+Aiman,Constantine,m,1963-10-08,Chicago,United States,false
+Serap,Tasistro,m,1956-01-27,Chicago,United States,false
+Adib,Rullman,m,1955-12-19,Chicago,United States,false
+Guenter,Karunanithi,f,1959-09-26,Chicago,United States,false
+Odinaldo,Kruskal,m,1956-06-17,Chicago,United States,false
+Bernd,Redmiles,f,1964-07-12,Chicago,United States,false
+Dung,Gornas,m,1960-10-03,Chicago,United States,false
+Eckart,Harnett,f,1964-01-14,Chicago,United States,false
+Aluzio,Narlikar,m,1957-10-06,Chicago,United States,false
+Garnet,Isard,m,1958-10-22,Chicago,United States,false
+Zita,Minakawa,f,1954-01-11,Chicago,United States,false
+Saeed,Kitai,f,1959-06-16,Chicago,United States,false
+Ugo,Maliniak,f,1958-11-17,Chicago,United States,false
+Percy,Lorho,f,1961-05-24,Phoenix,United States,false
+Mohit,Janetzko,m,1962-07-22,Phoenix,United States,false
+Fumitaka,Peak,m,1952-11-17,Phoenix,United States,false
+Morris,Andreotta,f,1962-04-22,Phoenix,United States,false
+Sangeeta,Rodham,f,1962-04-06,Phoenix,United States,false
+Sachar,Erdi,m,1954-07-06,Phoenix,United States,false
+Morrie,Gewali,m,1964-09-12,Phoenix,United States,false
+Gurbir,Hellwagner,f,1962-07-09,Phoenix,United States,false
+Vincent,Schwartzbauer,m,1960-10-10,Phoenix,United States,false
+Rosita,Oppitz,m,1963-10-08,Phoenix,United States,false
+Gor,Iacovou,f,1961-02-11,Phoenix,United States,false
+Suzette,Sadowski,m,1956-04-19,Phoenix,United States,false
+Sven,Huttel,f,1954-01-02,Phoenix,United States,false
+Shim,Wiegley,m,1955-03-13,Phoenix,United States,false
+Kiyomitsu,Peltason,m,1963-12-26,Phoenix,United States,false
+Yaghout,Syang,m,1957-02-17,Phoenix,United States,false
+Poorav,Ranze,f,1953-10-23,Phoenix,United States,false
+Kolar,Usery,f,1958-12-29,Phoenix,United States,false
+Falguni,Khalid,m,1955-02-02,Phoenix,United States,false
+Yuchang,Francisci,f,1964-04-12,Phoenix,United States,false
+King,Brendel,m,1955-08-21,Phoenix,United States,false
+Roddy,Demeyer,f,1953-06-14,Phoenix,United States,false
+Jordanka,Ushiama,m,1952-12-02,Phoenix,United States,false
+Byong,Conde,m,1964-07-18,Phoenix,United States,false
+Pradeep,Harbusch,f,1958-09-30,Phoenix,United States,false
+Chenyi,Feinberg,m,1956-09-08,Phoenix,United States,false
+Odysseas,Ressouche,m,1962-06-10,Phoenix,United States,false
+Paddy,Brizzi,m,1958-06-24,Phoenix,United States,false
+Florina,Simkin,m,1961-01-11,Phoenix,United States,false
+Fumiyo,Boyle,f,1962-11-26,Phoenix,United States,false
+JiYoung,Chenney,m,1956-04-12,Phoenix,United States,false
+Phillip,Dratva,m,1963-05-27,Phoenix,United States,false
+Sumali,Liedekerke,m,1959-04-10,Dallas,United States,false
+Lech,Himler,m,1965-01-19,Dallas,United States,false
+Giap,Bolsens,m,1962-04-15,Dallas,United States,false
+Yunming,Beetstra,f,1953-01-12,Dallas,United States,false
+Goetz,Norsworthy,m,1961-02-24,Dallas,United States,false
+Nathalie,Standera,m,1964-06-10,Dallas,United States,false
+Monique,Doering,f,1954-02-28,Dallas,United States,false
+Ishfaq,Candan,m,1955-06-24,Dallas,United States,false
+Vishv,Bouloucos,m,1962-11-02,Dallas,United States,false
+Bedir,Perry,f,1956-06-18,Dallas,United States,false
+Guiseppe,Kleiser,f,1960-05-10,Dallas,United States,false
+Munehiro,Dayana,m,1956-01-21,Dallas,United States,false
+Avishai,Bahr,f,1960-07-11,Dallas,United States,false
+Jacqueline,Masand,m,1958-10-03,Dallas,United States,false
+Xiaoheng,Sluis,m,1956-03-12,Dallas,United States,false
+Mahmut,Skafidas,f,1958-01-27,Dallas,United States,false
+Mizuhito,Kemmerer,f,1955-08-11,Dallas,United States,false
+Selwyn,Merey,m,1953-03-13,Dallas,United States,false
+Mori,Yavatkar,f,1961-07-09,Dallas,United States,false
+Goncalo,Staudhammer,m,1955-09-12,Dallas,United States,false
+Patricio,Leuchs,m,1958-09-19,Dallas,United States,false
+Kish,Perna,f,1952-09-18,Dallas,United States,false
+Moty,Kenevan,m,1963-11-13,Dallas,United States,false
+Weijing,Bottner,f,1957-01-27,Dallas,United States,false
+Keiichiro,Marzano,m,1963-02-09,Dallas,United States,false
+Patricia,dAstous,m,1964-05-19,Dallas,United States,false
+Shiv,Neimat,f,1958-07-10,Dallas,United States,false
+Frazer,Ullian,m,1963-06-28,Dallas,United States,false
+Aruna,Journel,f,1964-05-19,Dallas,United States,false
+Yurij,Schonegge,m,1962-04-01,Dallas,United States,false
+Tadahiko,Sgarro,m,1954-05-27,Dallas,United States,false
+Chinya,Birdsall,m,1962-09-04,Dallas,United States,false
+Oksana,Roisin,f,1960-08-27,Dallas,United States,false
+Teunis,Berztiss,m,1962-06-26,Dallas,United States,false
+Supot,Naudin,m,1954-12-14,Dallas,United States,false
+Khoa,Rousseau,m,1959-06-30,Dallas,United States,false
+Goetz,Hiyoshi,f,1956-10-04,Dallas,United States,false
+Elliott,Bednarek,m,1961-07-18,Dallas,United States,false
+Gad,Griswold,f,1957-11-21,Dallas,United States,false
+Yuchang,Matzke,m,1961-12-15,New York City,United States,false
+Uinam,Zschoche,m,1953-03-05,New York City,United States,false
+Masato,Setlzner,m,1960-10-27,New York City,United States,false
+Katsuyuki,Velasco,f,1952-09-15,New York City,United States,false
+Terresa,Benantar,m,1964-02-20,New York City,United States,false
+Kerhong,Bernick,f,1959-09-12,New York City,United States,false
+Giap,Matzel,m,1958-10-17,New York City,United States,false
+Munehiro,Zallocco,f,1964-06-23,New York City,United States,false
+Chenxi,Leijenhorst,m,1955-09-11,New York City,United States,false
+Shim,Feldhoffer,f,1962-01-06,New York City,United States,false
+Lijie,Lunn,f,1957-10-23,New York City,United States,false
+Ashish,Fortenbacher,m,1954-06-29,New York City,United States,false
+Berthier,Menhoudj,f,1957-09-14,New York City,United States,false
+Shalesh,Shumilov,m,1954-07-04,New York City,United States,false
+Nidapan,Dymetman,f,1952-09-17,New York City,United States,false
+Renny,Pramanik,m,1960-11-12,New York City,United States,false
+Morris,Caine,f,1958-02-24,New York City,United States,false
+Uri,Rullman,f,1958-10-02,New York City,United States,false
+Huan,Monarch,m,1958-12-20,New York City,United States,false
+Pascal,Sooriamurthi,m,1957-02-19,New York City,United States,false
+Baocai,Pena,f,1956-11-12,New York City,United States,false
+Irena,Schurmann,m,1959-04-14,New York City,United States,false
+Masaru,Passino,f,1956-08-02,New York City,United States,false
+Arfst,Mikschl,m,1956-06-13,New York City,United States,false
+Kirk,Kalsbeek,m,1958-09-20,New York City,United States,false
+Fan,Fairtlough,m,1958-03-27,New York City,United States,false
+Arnd,Anandan,m,1952-12-06,New York City,United States,false
+Willard,Danley,m,1953-09-25,New York City,United States,false
+Godehard,Gammage,m,1962-10-12,New York City,United States,false
+Alper,Narahara,f,1955-07-11,New York City,United States,false
+Fen,Fiebach,m,1954-08-17,Los Angeles,United States,false
+Toong,Driscoll,m,1953-10-11,Chicago,United States,false
+Hidde,Bergere,f,1964-08-29,Houston,United States,false
+Krisda,Gecseg,f,1953-04-12,Phoenix,United States,false
+Huiqun,Rajcani,m,1954-12-16,San Antonio,United States,false
+Tomoyuki,Kermarrec,m,1952-11-23,San Diego,United States,false
+Jianhua,Leivant,f,1953-07-15,Dallas,United States,false
+Chuanti,Karlin,m,1957-02-06,Austin,United States,false
+Deniz,Ramras,m,1957-10-19,Jacksonville,United States,false
+Gurbir,Katiyar,m,1964-04-02,Fort Worth,United States,false
+Mohammad,Koshino,m,1961-04-26,San Jose,United States,false
+Pranav,Lieberherr,m,1961-10-14,Columbus,United States,false
+Berni,Sanella,f,1961-08-29,Charlotte,United States,false
+Honesty,Smeets,m,1961-09-05,Indianapolis,United States,false
+Dipayan,Koprowski,m,1954-02-03,New York City,United States,false
+Hidde,Tasistro,f,1960-12-24,Los Angeles,United States,false
+Tokuyasu,Serre,m,1952-06-27,Chicago,United States,false
+Theirry,Danley,m,1952-03-04,Houston,United States,false
+Fen,Bratsberg,f,1954-07-16,Phoenix,United States,false
+Makato,Mayerwieser,m,1953-03-05,San Antonio,United States,false
+Florina,Schapire,f,1963-01-01,San Diego,United States,false
+Piyawadee,Copas,m,1959-11-15,Dallas,United States,false
+Hercules,Munck,f,1959-11-24,Austin,United States,false
+Yoshinari,Kalloufi,f,1964-03-22,Jacksonville,United States,false
+Jagoda,Nannarelli,m,1954-08-11,Fort Worth,United States,false
+Kwangho,Reinhart,m,1957-08-07,San Jose,United States,false
+Sreenivas,Peck,f,1964-03-13,Columbus,United States,false
+Fusako,Stenning,f,1957-06-11,Charlotte,United States,false
+Kenroku,Gonthier,m,1952-10-01,Indianapolis,United States,false
+King,Bernini,f,1961-10-16,New York City,United States,false
+Gino,Werthner,m,1961-11-05,Los Angeles,United States,false
+Howell,Baek,m,1962-02-27,Chicago,United States,false
+Zhenbing,Kadhim,f,1956-01-19,Houston,United States,false
+Byong,Bhattacharjee,m,1962-08-05,Phoenix,United States,false
+Elliott,Spieker,f,1958-01-07,San Antonio,United States,false
+Danco,Etalle,m,1961-03-16,San Diego,United States,false
+Fayez,Yeung,f,1959-12-13,Dallas,United States,false
+Billur,Gyorkos,m,1952-10-01,Austin,United States,false
+Houman,Unno,f,1959-05-11,Jacksonville,United States,false
+Guangming,Jonsson,f,1962-10-09,Fort Worth,United States,false
+Shahid,Leppanen,f,1956-07-23,San Jose,United States,false
+Aram,Gilg,m,1952-10-24,Columbus,United States,false
+Karoline,Speel,f,1952-02-21,Charlotte,United States,false
+Sukumar,Wegerle,m,1952-07-09,Indianapolis,United States,false
+Mahmut,Borstler,m,1958-01-18,New York City,United States,false
+Filipp,Suri,f,1958-10-27,Los Angeles,United States,false
+Vincent,Papastamatiou,f,1955-08-05,Chicago,United States,false
+Subir,Biron,m,1964-09-11,Houston,United States,false
+Lakshmi,Deville,m,1952-06-13,Phoenix,United States,false
+Muzhong,Chleq,f,1953-08-18,San Antonio,United States,false
+Weiye,Nitsche,m,1962-02-11,San Diego,United States,false
+Katsuo,Miake,m,1959-06-13,Dallas,United States,false
+Fun,Heuser,m,1953-11-01,Austin,United States,false
+Shimshon,Champarnaud,m,1952-07-30,Jacksonville,United States,false
+Teunis,Kleiser,f,1958-03-07,Fort Worth,United States,false
+Rayond,Cronau,m,1953-05-06,San Jose,United States,false
+Sushant,Begiun,m,1964-09-30,Columbus,United States,false
+Lunjin,DeMori,m,1953-01-16,Charlotte,United States,false
+Kwangho,Dredge,f,1959-03-15,Indianapolis,United States,false
+Cheong,Coors,f,1956-06-21,New York City,United States,false
+Ramzi,Furudate,m,1963-04-13,Los Angeles,United States,false
+Susanne,Jiang,f,1963-12-15,Chicago,United States,false
+Kazunori,Vieth,m,1959-12-13,Houston,United States,false
+Danil,Kropatsch,m,1960-01-30,Phoenix,United States,false
+Suebskul,Srimani,f,1958-08-21,San Antonio,United States,false
+Vishwani,Petersohn,m,1952-03-21,San Diego,United States,false
+Adil,Taubenfeld,m,1964-04-12,Dallas,United States,false
+Arno,Kumaresan,f,1958-05-27,Austin,United States,false
+Munenori,Markovitch,f,1961-11-10,Jacksonville,United States,false
+Valery,Rousseau,f,1962-05-11,Fort Worth,United States,false
+Ferdinand,Prenel,f,1955-07-18,San Jose,United States,false
+Chrisa,Narahara,m,1959-06-12,Columbus,United States,false
+Inderjeet,Perly,m,1964-05-09,Charlotte,United States,false
+Visit,Nyanchama,m,1958-06-04,Indianapolis,United States,false
+Debatosh,Colorni,f,1959-08-28,New York City,United States,false
+Jianhui,Aloia,m,1961-04-30,Los Angeles,United States,false
+Munehiro,Carrere,f,1952-02-06,Chicago,United States,false
+JiYoung,Luks,m,1963-09-26,Houston,United States,false
+Rajmohan,Koblick,m,1961-11-27,Phoenix,United States,false
+Georgi,Atchley,m,1954-11-11,San Antonio,United States,false
+Arco,Jervis,m,1958-11-11,San Diego,United States,false
+Shay,Casley,m,1959-07-22,Dallas,United States,false
+Oscal,Fasbender,m,1952-07-27,Austin,United States,false
+Narain,Thummel,m,1952-09-03,Jacksonville,United States,false
+Mizuhito,Prochazka,m,1956-04-26,Fort Worth,United States,false
+Valery,Skafidas,m,1961-03-11,San Jose,United States,false
+Make,Spataro,m,1962-01-03,Columbus,United States,false
+Tesuya,Slaats,f,1956-05-10,Charlotte,United States,false
+Susumu,Reghbati,m,1954-12-26,Indianapolis,United States,false
+Reinhard,Lindenbaum,m,1961-09-04,New York City,United States,false
+Ronghao,Narahara,m,1955-04-08,Los Angeles,United States,false
+Mara,Bahi,f,1955-07-20,Chicago,United States,false
+Kyoichi,Wossner,m,1953-10-27,Houston,United States,false
+Younwoo,Maquelin,m,1957-04-29,Phoenix,United States,false
+Hironoby,Atchley,f,1954-04-27,San Antonio,United States,false
+Heng,Waterhouse,f,1960-02-13,San Diego,United States,false
+Leni,Eppinger,f,1954-10-13,Dallas,United States,false
+Gal,Scallan,m,1953-03-13,Austin,United States,false
+Udaiprakash,Schmezko,m,1961-11-01,Jacksonville,United States,false
+Sumali,Arlazarov,m,1958-10-26,Fort Worth,United States,false
+Arch,Minakawa,m,1954-01-13,San Jose,United States,false
+Abdulla,Beutelspacher,f,1963-06-30,Columbus,United States,false
+Avishai,Picci,f,1955-11-19,Charlotte,United States,false
+Juyoung,Seghrouchni,f,1965-01-24,Indianapolis,United States,false
+Bartek,Strooper,f,1960-05-21,New York City,United States,false
+Morris,Famili,m,1961-08-09,Los Angeles,United States,false
+Mountaz,Schicker,f,1953-04-08,Chicago,United States,false
+Anyuan,Nanard,m,1964-09-11,Houston,United States,false
+Shaowei,Iisaku,f,1958-05-11,Phoenix,United States,false
+Matk,Akazan,m,1964-07-13,San Antonio,United States,false
+Aleksander,Fioravanti,f,1953-01-07,San Diego,United States,false
+Katsuyuki,Norsworthy,m,1960-08-26,Dallas,United States,false
+Toshimitsu,Larfeldt,f,1952-08-08,Austin,United States,false
+Berna,Skafidas,m,1955-11-19,Jacksonville,United States,false
+Remko,Zyda,m,1952-05-25,Fort Worth,United States,false
+Kazuhiro,Kushnir,f,1959-09-25,San Jose,United States,false
+Shaz,Kabayashi,m,1956-09-08,Columbus,United States,false
+Gor,Usery,f,1954-09-29,Charlotte,United States,false
+Shigehito,Brodie,m,1952-12-23,Indianapolis,United States,false
+Shigeichiro,Wroclawski,f,1953-08-14,New York City,United States,false
+Sushant,Staylopatis,m,1958-12-07,Los Angeles,United States,false
+Marco,Iisaku,m,1962-01-20,Chicago,United States,false
+Inderjeet,Bharadwaj,m,1958-08-26,Houston,United States,false
+Jahangir,Laventhal,f,1956-06-23,Phoenix,United States,false
+Ranga,Burnard,f,1964-11-16,San Antonio,United States,false
+Urs,Danley,f,1959-02-24,San Diego,United States,false
+Arno,Picel,m,1955-02-02,Dallas,United States,false
+Duke,Schnabel,m,1961-06-06,Austin,United States,false
+Huican,Katalagarianos,m,1958-11-07,Jacksonville,United States,false
+Kerryn,Vigier,m,1956-06-19,Fort Worth,United States,false
+Billur,Braunschweig,m,1959-10-24,San Jose,United States,false
+Weiwu,Choobineh,m,1957-03-28,Columbus,United States,false
+Naraig,Kugler,f,1956-08-23,Charlotte,United States,false
+Hatsukazu,Swist,m,1957-04-15,Indianapolis,United States,false
+Takushi,Bolsens,f,1962-04-02,New York City,United States,false
+Eckart,Braunschweig,m,1955-07-10,Los Angeles,United States,false
+Danel,Pardalos,m,1962-07-04,Chicago,United States,false
+Eran,Adachi,m,1962-10-01,Houston,United States,false
+Lakshmi,Kolinko,m,1961-03-19,Phoenix,United States,false
+Premal,Noriega,m,1954-09-05,San Antonio,United States,false
+Gen,Tiemann,f,1962-08-24,San Diego,United States,false
+Isamu,Vadhan,m,1955-02-08,Dallas,United States,false
+Fumiko,Asser,f,1961-10-05,Austin,United States,false
+Valdiodio,Raczkowsky,m,1961-10-02,Jacksonville,United States,false
+Muneo,Papsdorf,m,1952-03-07,Fort Worth,United States,false
+Peternela,Birnbaum,f,1962-07-27,San Jose,United States,false
+Hitomi,Valette,f,1963-01-27,Columbus,United States,false
+Toong,Murrill,m,1957-03-19,Charlotte,United States,false
+Huiqun,Bellone,m,1962-09-24,Indianapolis,United States,false
+Elrique,Raney,f,1959-09-11,New York City,United States,false
+Filipp,Munawer,m,1963-11-10,Los Angeles,United States,false
+Sugwoo,Dulin,f,1956-07-22,Chicago,United States,false
+Yishay,Decleir,m,1964-02-27,Houston,United States,false
+Somnath,Parascandalo,f,1961-08-09,Phoenix,United States,false
+Pranjal,Billawala,f,1962-11-10,San Antonio,United States,false
+Chiradeep,Furedi,f,1952-05-31,San Diego,United States,false
+Masako,Schiper,m,1954-08-11,Dallas,United States,false
+Flemming,Baezner,m,1952-11-26,Austin,United States,false
+Chinya,Deyuan,m,1955-06-24,Jacksonville,United States,false
+Sumali,Candan,f,1954-09-08,Fort Worth,United States,false
+Shin,Foote,m,1954-10-22,San Jose,United States,false
+Munehiro,Aingworth,m,1957-05-22,Columbus,United States,false
+Zhensheng,Juneja,m,1958-11-26,Charlotte,United States,false
+Arve,Erde,f,1958-11-17,Indianapolis,United States,false
+Divine,Aingworth,m,1961-06-17,New York City,United States,false
+Chenye,Hertweck,f,1963-02-26,Los Angeles,United States,false
+Matk,Rahimi,f,1955-02-01,New York City,United States,false
+Alselm,Parascandalo,f,1959-08-30,New York City,United States,false
+Marlo,Kandlur,m,1956-02-17,New York City,United States,false
+Insup,Benveniste,f,1961-12-04,New York City,United States,false
+Alain,Bonifati,m,1960-09-12,New York City,United States,false

@@ -30,5 +30,7 @@ def decrypt(encrypted_password: str = None) -> str:
 
 
 if __name__ == "__main__":
-    a=decrypt('gAAAAABlFMtXpPhm74qaVpnveGID0ymjWN0tgX7sJsr6EFh4nGyVY29ilZnlz8Su5HQ2l2t-4_lw2W6VCFO3-gHHiUBk5s0gC5SW4qpFfSyg9RHfbD-7v8lY3IqjHFcG7NXqUuV-sQTh82hGyhkeL00wXH2EKTOrkr7sgWHEXbEJe3gS7687zAA=')
+    # a=decrypt('gAAAAABlFMtXpPhm74qaVpnveGID0ymjWN0tgX7sJsr6EFh4nGyVY29ilZnlz8Su5HQ2l2t-4_lw2W6VCFO3-gHHiUBk5s0gC5SW4qpFfSyg9RHfbD-7v8lY3IqjHFcG7NXqUuV-sQTh82hGyhkeL00wXH2EKTOrkr7sgWHEXbEJe3gS7687zAA=')
+    a = decrypt('gAAAAABluZ-Mqc9dAQ_Q764d_cBtQOYLoPg_uh9j3ZzNKwuWmBxLmS7AEJwGxxP6CKW5fPN-V_U2nCXXfFxB9eKF0gn0CmfsKAXnLUVs06eqDcizN34hYmaT5I9hRL1wart57Izt0cA_cwmPdB-A_mPZ-yaYoLWQT_JP_tI7WibFLWo_3to1qMl1lXphHRpNeUpOH76tLSGC')
     print(a)
+
